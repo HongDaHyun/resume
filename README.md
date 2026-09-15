@@ -47,7 +47,7 @@ ChessDodge | 2023-08 | 2024-04 | Android | 로그라이크 택티컬 탄막 | �
 SlimePangPang | 2023-11 | 2024-06 | Web/Android | 수박게임 | 출시완료
 Tactics-Adventure | 2024-01 | 2024-03 | Android | 턴제 전략 카드 퍼즐 게임 | 개발 중단
 MergeSlime | 2024-04 | 2024-06 | Web | 캐주얼 방치형/시뮬레이션 | 출시완료
-Cooking-Vampire | 2024-10 | 2025-04 | Android | 뱀파이어 서바이벌 + 요리 타이쿤 | 개발중
+Cooking-Vampire | 2024-10 | 2025-04 | Android | 뱀파이어 서바이벌 + 타이쿤 | 개발중
 
 
 ## [2. Introduction](https://github.com/samchon/resume/blob/master/STORY.md#2-introduction)
