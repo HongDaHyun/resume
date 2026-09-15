@@ -25,41 +25,46 @@ Aseprite     | 5 년        | 도트 그래픽 디자인 전문 — 캐릭터 �
 ExCel        | 2 년        | CSV 기반 게임 데이터베이스 설계 및 구축, 기획-개발 간 데이터 파이프라인 정립
 
 ### [1.4. Experiences](https://github.com/samchon/resume/blob/master/STORY.md#15-experiences)
-- 총 협업 경험: 약 12개월
+- 총 협업 경험: 약 17개월
 
 Team/Project | Entry Date | Leave Date | Form
 --------|------------|------------|-------
 [RudenSmith](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill) | 2022-09    | 2023-01    | 개발 및 서브 디자인 담당 (팀원: 마케팅/기획/디자인), 스타트업 초기멤버(개발 중 해체)
 [HIM](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2023-02    | 2023-05    | 개발과 디자인 모두 단독 담당 (팀원: 기획), 스타트업 초기멤버(개발 중 해체)
 [CookieLabs](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2023-11    | 2024-06    | 스타트업 초기멤버(무급, 사업자 등록 전), 게임 2종 단독 개발
-[졸업작품](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2024-03    | 2024-06    | 프로그래밍(메인화면·미니게임 구현, 팀원 코드 통합)과 아트(전체 단독 제작)를 동시 담당, 학업 프로젝트
+[졸업작품(TurtleRun)](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2024-03    | 2024-06    | 프로그래밍(메인화면·미니게임 구현, 팀원 코드 통합)과 아트(전체 단독 제작)를 동시 담당, 학업 프로젝트
+[졸업작품(Boulangerie)](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2024-11    | 2025-03    | 개발 단독 담당 (팀원: 기획&디자인), 학업 프로젝트
 
-- 총 단독 프로젝트 경험: 약 28개월
+- 총 단독 프로젝트 경험: 약 29개월
 
-Project | Start Date | Finish Date | Form
---------|------------|------------|-------
-RandomTowerDefense | 2023-02 | 2024-12 | 랜덤 타워디펜스 + 로그라이크 (출시완료)
-ChessDodge | 2023-08 | 2024-04 | 체스판 위 턴제 총알피하기 게임 (개발 중단)
-SlimePangPang | 2023-11 | 2024-06 | 수박게임 슬라임 버전 (출시완료)
-Cooking-Vampire | 2024-10 | 2025-04 | 뱀파이어 서바이벌 + 요리 타이쿤 (군 복무로 개발 지연 중)
+Project | Start Date | Finish Date | Platform | Genre | Status
+--------|------------|------------|-------|-----------------|----
+군 비기 "침상 점프" | -          | 2022-03    | Android | 클리커(유명 유튜버 팬게임) | 출시완료
+RetroSurvivor | 2022-06 | 2022-09 | Android | 뱀서류 | 개발중단
+RandomTowerDefense | 2023-02 | 2024-12 | Android | 랜덤 타워디펜스 + 로그라이크 | 출시완료
+KingsUp | 2023-07 | 2023-08 | Android | 플랫폼 게임 | 출시완료
+ChessDodge | 2023-08 | 2024-04 | Android | 로그라이크 택티컬 탄막 | 개발중단
+SlimePangPang | 2023-11 | 2024-06 | Web/Android | 수박게임 | 출시완료
+Tactics-Adventure | 2024-01 | 2024-03 | Android | 턴제 전략 카드 퍼즐 게임 | 개발 중단
+MergeSlime | 2024-04 | 2024-06 | Web | 캐주얼 방치형/시뮬레이션 | 출시완료
+Cooking-Vampire | 2024-10 | 2025-04 | Android | 뱀파이어 서바이벌 + 요리 타이쿤 | 개발중
 
-이외 개인 프로젝트 6건
 
 ## [2. Introduction](https://github.com/samchon/resume/blob/master/STORY.md#2-introduction)
-### [2.1. For a lifetime](https://github.com/samchon/resume/blob/master/STORY.md#21-for-a-lifetime)
-1998 년 이래로 프로그래밍을 시작, 25 년을 한결같이 매진해왔습니다.
+### [2.1. Where It Began](https://github.com/samchon/resume/blob/master/STORY.md#21-for-a-lifetime)
+2015년 코드를 처음으로 접하고, 올해 26살이 되기까지 12년간 프로그래밍을 놓아본 적이 없습니다.
 
 ### [2.2. Self Improvement](https://github.com/samchon/resume/blob/master/STORY.md#22-self-improvement)
-회사에서 근무하는 동안, 새로운 라이브러리에 대한 필요를 느끼거나 혹은 기존 라이브러리에서 불편함을 느끼면, 집으로 돌아와 이를 오픈소스 프로젝트로 제작해보고는 합니다.
+필요한 지식은 늘 스스로 찾아 익혔습니다. 문서와 코드를 뜯어보고 수많은 디버깅으로 쌓은 실력입니다.
 
-### [2.3. Standardization](https://github.com/samchon/resume/blob/master/STORY.md#23-standardization)
-25 년 간 개발을 공부해오면서, 표준화의 중요성을 절실히 느껴, 이를 중시합니다.
+### [2.3. Solo Indie Development](https://github.com/samchon/resume/blob/master/STORY.md#23-standardization)
+혼자서 게임을 기획하고, 개발하고, 출시한 뒤 유지보수까지 여러 차례 경험해왔습니다. 그 과정에서 기획·개발·아트·마케팅 전 분야를 넘나드는 다재다능함을 자연스럽게 갖추게 되었습니다.
 
 ### [2.4. Documentation](https://github.com/samchon/resume/blob/master/STORY.md#24-documentation)
-프로젝트를 진행하면서 이슈사항들에 대하여 꾸준히 문서로 정리하며, 상용 프로젝트를 시작한 이래, 일일 업무일지를 꾸준히 작성해왔습니다.
+GitHub, SNS, 전자문서, 트레일러 영상 등으로 개발 기록을 꾸준히 남겨왔습니다. 혼자 하더라도 협업의 기본인 자료화는 놓치지 않았습니다.
 
-### [2.5. Test Driven Development](https://github.com/samchon/resume/blob/master/STORY.md#25-test-driven-development)
-저는 개발을 할 때, 표준화만큼이나 TDD 를 철저히 지킴으로써, 늘 안정성을 추구합니다.
+### [2.5. Performance & Code Quality](https://github.com/samchon/resume/blob/master/STORY.md#25-test-driven-development)
+렌더링부터 메모리 관리까지, 성능을 갉아먹는 지점을 찾아 최적화하는 것을 습관처럼 실천해왔습니다.
 
 
 
