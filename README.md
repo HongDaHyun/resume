@@ -69,7 +69,7 @@ GitHub, SNS, 전자문서, 트레일러 영상 등으로 개발 기록을 꾸준
 
 
 
-### [3. Beyond Development](https://github.com/samchon/resume/blob/master/STORY.md#31-beyond-development)
+## [3. Beyond Development](https://github.com/samchon/resume/blob/master/STORY.md#31-beyond-development)
 ### [3.1. Design](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects)
 Category | Tool | Description
 ---------|------|-------------
