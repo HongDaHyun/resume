@@ -27,13 +27,13 @@ ExCel        | 2 년        | CSV 기반 게임 데이터베이스 설계 및 �
 ### [1.4. Experiences](https://github.com/samchon/resume/blob/master/STORY.md#15-experiences)
 - 총 협업 경험: 약 17개월
 
-Team/Project | Entry Date | Leave Date | Form
---------|------------|------------|-------
-[RudenSmith](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill) | 2022-09    | 2023-01    | 개발 및 서브 디자인 담당 (팀원: 마케팅/기획/디자인), 스타트업 초기멤버(개발 중 해체)
-[HIM](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2023-02    | 2023-05    | 개발과 디자인 모두 단독 담당 (팀원: 기획), 스타트업 초기멤버(개발 중 해체)
-[CookieLabs](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2023-11    | 2024-06    | 스타트업 초기멤버(무급, 사업자 등록 전), 게임 2종 단독 개발
-[졸업작품(TurtleRun)](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2024-03    | 2024-06    | 프로그래밍(메인화면·미니게임 구현, 팀원 코드 통합)과 아트(전체 단독 제작)를 동시 담당, 학업 프로젝트
-[졸업작품(Boulangerie)](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2024-11    | 2025-03    | 개발 단독 담당 (팀원: 기획&디자인), 학업 프로젝트
+Team/Project | Entry Date | Leave Date | Role | Form
+--------|------------|------------|------|-------
+[RudenSmith](링크) | 2022-09 | 2023-01 | 개발/서브 디자인 | 개발 중 해체
+[HIM](링크) | 2023-02 | 2023-05 | 개발/디자인 | 개발 중 해체
+[CookieLabs](링크) | 2023-11 | 2024-06 | 개발 | 스타트업 초기멤버 (무급, 사업자 등록 전)
+[졸업작품(TurtleRun)](링크) | 2024-03 | 2024-06 | 개발(메인화면·미니게임, 코드 통합), 디자인 | 학업 프로젝트
+[졸업작품(Boulangerie)](링크) | 2024-11 | 2025-03 | 개발 | 학업 프로젝트
 
 - 총 단독 프로젝트 경험: 약 29개월
 
@@ -66,7 +66,8 @@ GitHub, SNS, 전자문서, 트레일러 영상 등으로 개발 기록을 꾸준
 ### [2.5. Performance & Code Quality](https://github.com/samchon/resume/blob/master/STORY.md#25-test-driven-development)
 렌더링부터 메모리 관리까지, 성능을 갉아먹는 지점을 찾아 최적화하는 것을 습관처럼 실천해왔습니다.
 
-
+### [2.6. Recent Update](https://github.com/samchon/resume/blob/master/STORY.md#26-recent-update)
+공군 전산병으로 복무하며 군 내 SMS(Service Management System)를 개발했고, 대회에서 3스타(참모총장상)를 수상했습니다. 이 기간 동안 개인 개발 커밋은 잠시 멈춰 있습니다.
 
 
 ## [3. Beyond Development](https://github.com/samchon/resume/blob/master/STORY.md#31-beyond-development)
