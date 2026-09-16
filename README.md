@@ -69,45 +69,31 @@ GitHub, SNS, 전자문서, 트레일러 영상 등으로 개발 기록을 꾸준
 
 
 
-## [3. My Projects](https://github.com/samchon/resume/blob/master/STORY.md#3-my-projects)
-### [3.1. Open Source Projects](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects)
-Project            | Skills           | Description
--------------------|------------------|-----------------------------
-[typia](https://github.com/samchon/resume/blob/master/STORY.md#311-typia) | TypeScript | 15,000x faster Runtime Validator
-[nestia](https://github.com/samchon/resume/blob/master/STORY.md#312-nestia) | TypeScript | A set of helper libraries for `NestJS`
-[reactia](https://github.com/samchon/resume/blob/master/STORY.md#313-reactia) | TypeScript | Automatic React Component Generator
-[fake-iamport-server](https://github.com/samchon/resume/blob/master/STORY.md#314-fake-iamport-server) | TypeScript | Fake Iamport Server for testing
-[fake-toss-payments-server](https://github.com/samchon/resume/blob/master/STORY.md#315-fake-toss-payments-server) | TypeScript | Fake Toss Payments Server for testing
-[backend](https://github.com/samchon/resume/blob/master/STORY.md#316-backend) | TypeScript | Backend Template Project
-[safe-typeorm](https://github.com/samchon/resume/blob/master/STORY.md#317-safe-typeorm) | TypeScript | TypeORM helper for the compilation level
-[tstl](https://github.com/samchon/resume/blob/master/STORY.md#318-tstl) | TypeScript | C++ STL in the TypeScript
-[tgrid](https://github.com/samchon/resume/blob/master/STORY.md#319-tgrid) | TypeScript | TypeScript Grid Computing Framework
-[mutex-server](https://github.com/samchon/resume/blob/master/STORY.md#3110-mutex-server) | TypeScript | Mutex and Semaphore in the network level
-[samchon-framework](https://github.com/samchon/resume/blob/master/STORY.md#3111-samchon-framework) | C++, Flex | Interaction through network
+### [3. Beyond Development](https://github.com/samchon/resume/blob/master/STORY.md#31-beyond-development)
+### [3.1. Design](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects)
+Category | Tool | Description
+---------|------|-------------
+[Pixel Art](링크) | Aseprite | 캐릭터, 배경, 아이템 등 도트 그래픽 및 애니메이션 제작
+[Hand-drawn Illustration](링크) | MediBang Paint | 캐릭터 일러스트 및 애니메이션 손그림 제작
+[Effect Design](링크) | All | 스킬, 타격, 연출용 이펙트 스프라이트 제작
 
-### [3.2. University Projects](https://github.com/samchon/resume/blob/master/STORY.md#32-university-projects)
-Project            | Skills           | Description
--------------------|------------------|-----------------------------
-[hansung-timetable](STORY.md#321-hansung-timetable)  | Flex             | Timetable Simulator
-[samchon-simulation](https://github.com/samchon/resume/blob/master/STORY.md#322-samchon-simulation) | C++, Flex | Stock Trading Simulator
-[nam-tree](https://github.com/samchon/resume/blob/master/STORY.md#323-nam-tree)           | C++, Flex | Custom Decision Tree for Complicate Model
+### [3.2. Marketing](https://github.com/samchon/resume/blob/master/STORY.md#32-university-projects)
+**[Instagram](링크)**
+: 인게임 테스트 플레이 릴스와, 개발 과정을 그린 인스타툰을 꾸준히 게시하며 메인 채널로 운영했습니다.
 
+**[YouTube](링크)**
+: 게임 홍보용 숏폼 영상을 제작해 업로드했습니다.
 
+**[Trailer Video](링크)**
+: 홍보 및 후원 유도를 목적으로, 게임 출시 전 트레일러 영상을 직접 기획·편집하여 제작했습니다.
 
+**[DCInside - 인디게임개발 갤러리](링크)**
+: 개발일지를 게시했으나, 짧은 기간 운영 후 중단했습니다.
 
-## [4. Commercial Projects](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
-Company        | Project                | Skills              | Special Note
----------------|------------------------|---------------------|---------------------
-SmartCareWorks | [ORAQ (Selene TR-1)](https://github.com/samchon/resume/blob/master/STORY.md#411-oraq-selene-tr-1)     | C++, Flex           | GPU on Browser
-Unitech        | [Communication Module](https://github.com/samchon/resume/blob/master/STORY.md#421-torpedo-simulator-communication-module)   | C++                 | SDN
-Hiswill        | [Construction Scheduler](https://github.com/samchon/resume/blob/master/STORY.md#431-tsp-construction-scheduler) | C++                 | Algorithm
-Hiswill        | [3D Bin Packing](https://github.com/samchon/resume/blob/master/STORY.md#432-3d-bin-packing)         | C++, TypeScript     | Algorithm
-Hiswill        | [Folding](https://github.com/samchon/resume/blob/master/STORY.md#433-folding)                | C++                 | Algorithm
-Hiswill        | [Auto HL](https://github.com/samchon/resume/blob/master/STORY.md#434-auto-hl)                | TypeScript, Au3     | Distributed FA
-Hilswill       | [Button Finder](https://github.com/samchon/resume/blob/master/STORY.md#435-distributed-button-finder)          | C++, TypeScript     | Dsitributed System
-Hiswill        | [Cropper](https://github.com/samchon/resume/blob/master/STORY.md#436-cropper)                | Flex                | Polyline cutter
-Hiswill        | [Kiosk Pants Editor](https://github.com/samchon/resume/blob/master/STORY.md#437-kiosk-pants-editor)     | TypeScript          | Network Mutex
-Aijinet        | [DB ERD](https://github.com/samchon/resume/blob/master/STORY.md#441-entity-relationship-diagram)                 | MySQL               | Architecture Design 
-Aijinet        | [Backend API Server](https://github.com/samchon/resume/blob/master/STORY.md#442-backend-api-server)     | TypeScript          | Library for Frontend
-Aijinet        | [Insurance Engine](https://github.com/samchon/resume/blob/master/STORY.md#443-insurance-engine)       | TypeScript          | Algorithm, Optimization
-Aijinet        | [Private Engine](https://github.com/samchon/resume/blob/master/STORY.md#444-private-engine-for-special-insurer)         | TypeScript          | Process level Blue-green
+### [3.3. Planning](https://github.com/samchon/resume/blob/master/STORY.md#33-planning)
+
+**[애니제라블](링크)**
+: RudenSmith 팀 게임의 기획서로, 투자 유치를 위해 BM과 시장 분석까지 함께 진행했습니다.
+
+**[알티디(역기획서)](링크)**
+: 직접 개발한 게임을 역으로 분석하여 재구성한 기획서로, 시스템과 밸런스 구조를 논리적으로 해체·정리했습니다.
