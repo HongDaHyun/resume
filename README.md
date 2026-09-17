@@ -1,4 +1,4 @@
-# Resume of [DaHyun](https://github.com/HongDaHyun)
+# Resume of [HongDaHyun](https://github.com/HongDaHyun)
 > 이 문서는 축약 이력서로써, 각 단원의 링크를 클릭하면, 상세 페이지로 이동합니다.
 
 ## [1. Outline](https://github.com/samchon/resume/blob/master/STORY.md#1-outline)
