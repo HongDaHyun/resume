@@ -19,7 +19,7 @@
 ### [1.3. Skills](https://github.com/samchon/resume/blob/master/STORY.md#14-skills)
 Skill        | Experiences | Note
 -------------|-------------|-----------------------------------
-C#           | 5 년        | Unity 엔진 최적화에 특화된 C# 활용 — 오브젝트 풀링, GC 최소화, 커스텀 에디터 툴 등 제작 경험
+C#           | 5 년        | Unity 엔진 최적화에 특화된 C# 활용 — 오브젝트 풀링, GC 최소화, 커스텀 에디터 툴 등 활용
 Unity        | 5 년        | 엔진 내부 구조에 대한 깊은 이해를 바탕으로 에셋 파이프라인 구축 및 최적화
 Aseprite     | 5 년        | 도트 그래픽 디자인 전문 — 캐릭터 애니메이션 및 이펙트 스프라이트 제작 가능
 ExCel        | 2 년        | CSV 기반 게임 데이터베이스 설계 및 구축, 기획-개발 간 데이터 파이프라인 정립
@@ -41,13 +41,13 @@ Project | Start Date | Finish Date | Platform | Genre | Status
 --------|------------|------------|-------|-----------------|----
 군 비기 "침상 점프" | -          | 2022-03    | Android | 클리커(유명 유튜버 팬게임) | 출시완료
 RetroSurvivor | 2022-06 | 2022-09 | Android | 뱀서류 | 개발중단
-RandomTowerDefense | 2023-02 | 2024-12 | Android | 랜덤 타워디펜스 + 로그라이크 | 출시완료
+RandomTowerDefense | 2023-02 | 2024-12 | Android | 랜타디 + 로그라이크 | 출시완료
 KingsUp | 2023-07 | 2023-08 | Android | 플랫폼 게임 | 출시완료
 ChessDodge | 2023-08 | 2024-04 | Android | 로그라이크 택티컬 탄막 | 개발중단
 SlimePangPang | 2023-11 | 2024-06 | Web/Android | 수박게임 | 출시완료
 Tactics-Adventure | 2024-01 | 2024-03 | Android | 턴제 전략 카드 퍼즐 게임 | 개발 중단
 MergeSlime | 2024-04 | 2024-06 | Web | 캐주얼 방치형/시뮬레이션 | 출시완료
-Cooking-Vampire | 2024-10 | 2025-04 | PC | 뱀파이어 서바이벌 + 타이쿤 | 개발중
+Cooking-Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
 
 
 ## [2. Introduction](https://github.com/samchon/resume/blob/master/STORY.md#2-introduction)
