@@ -67,6 +67,7 @@ GitHub, SNS, 전자문서, 트레일러 영상 등으로 개발 기록을 꾸준
 렌더링부터 메모리 관리까지, 성능을 갉아먹는 지점을 찾아 최적화하는 것을 습관처럼 실천해왔습니다.
 
 ### [2.6. Asset & Tools](https://github.com/HongDaHyun/resume/blob/master/STORY.md#26-assets-&-tools)
+약 50개 이상의 에셋을 활용할 수 있고, 프로젝트마다 반복되는 작업은 직접 코드를 만들어 재사용합니다.
 
 ### [2.6. Recent Update](https://github.com/HongDaHyun/resume/blob/master/STORY.md#27-recent-update)
 공군 전산병으로 복무하며 군 내 SMS(Service Management System)를 개발했고, 대회에서 3스타(참모총장상)를 수상했습니다. 이 기간 동안 개인 개발 커밋은 잠시 멈춰 있습니다.
