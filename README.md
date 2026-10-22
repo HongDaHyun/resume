@@ -41,7 +41,7 @@ Team/Project | Entry Date | Leave Date | Role | Form
 Project | Start Date | Finish Date | Platform | Genre | Status
 --------|------------|------------|-------|-----------------|----
 군 비기 "침상 점프" | -          | 2022-03    | Android | 클리커(유명 유튜버 팬게임) | 출시완료
-애니제라블 | 2022-09 | 2023-01 | PC | 뱀서류 + AI | 개발중단
+RetroSurvivor | 2022-06 | 2022-09 | Android | 뱀서류 | 개발중단
 RandomTowerDefense | 2023-02 | 2024-12 | Android | 랜타디 + 로그라이크 | 출시완료
 KingsUp | 2023-07 | 2023-08 | Android | 플랫폼 게임 | 출시완료
 ChessDodge | 2023-08 | 2024-04 | Android | 로그라이크 택티컬 탄막 | 개발중단
