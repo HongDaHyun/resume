@@ -1,5 +1,6 @@
 .# Resume of [HongDaHyun](https://github.com/HongDaHyun)
 > 이 문서는 축약 이력서로써, 각 단원의 링크를 클릭하면, 상세 페이지로 이동합니다.
+현재 군 복무 중이며, 이미지 및 동영상 자료는 휴가 기간을 활용해 순차적으로 업데이트하고 있습니다. 일부 자료는 추후 추가될 예정입니다.
 
 ## [1. Outline](https://github.com/HongDaHyun/resume/blob/master/STORY.md#1-outline)
 ### [1.1. Profile](https://github.com/HongDaHyun/resume/blob/master/STORY.md#11-outline)
