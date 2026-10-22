@@ -149,9 +149,37 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
 보안이 중요한 환경 특성상 게임 개발은 잠시 멈췄지만, 그 시간을 게임과 거리가 먼 분야를 익히는 데 썼습니다. 엑셀과 쉘에 대한 이해를 쌓고, 리눅스 OS와 웹 해킹, 리버싱까지 공부했으며 토익도 꾸준히 준비했습니다. 이렇게 군 복무 중에도 자기계발을 소홀히 하지 않았습니다.
 
 ## 3. My Projects
-### 4.1. Team Project
+### 3.1. Team Project
+#### 3.1.1 RudenSmith
+제작
 
-### 4.2. Personal Projects
+#### 3.1.2 HIM
+
+#### 3.1.3 CookieLabs
+
+#### 3.1.4 TurtleRun
+
+#### 3.1.5 Boulangerie
+
+### 3.2. Personal Projects
+#### 3.2.1 군 비기 "침상 점프"
+
+
+#### 3.2.2 RetroSurvivor
+
+#### 3.2.3 RandomTowerDefense
+
+#### 3.2.4 KingsUp
+
+#### 3.2.5 ChessDodge
+
+#### 3.2.6 SlimePangPang
+
+#### 3.2.7 Tactics-Adventure
+
+#### 3.2.8 MergeSlime
+
+#### 3.2.9 Cooking-Vampire
 
 ## 4. Beyond Development
 ### 4.1. Design
@@ -267,7 +295,7 @@ Complicate Dicision Tree.
 
 
 ### 4.3. Planning
-#### 4.3.1. Aniserables
+#### 4.3.1. 애니제라블
 블라블라
 
 #### 4.3.2. RTD
