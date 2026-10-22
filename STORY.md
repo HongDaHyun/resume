@@ -11,20 +11,24 @@
     + [2.3. Solo Indie Development](#23-solo-indie-development)
     + [2.4. Documentation](#24-documentation)
     + [2.5. Performance & Code Quality](#25-performance-&-code-quality)
-    + [2.6. Recent Update](#26-recent-update)
-  * [**3. Beyond Development**](#3-beyond-development)
-    + [3.1. Design](#31-design)
-      - [3.1.1. Pixel Art](#311-pixel-art)
-      - [3.1.2. Hand-drawn Illustration](#312-hand-drawn-illustration)
-      - [3.1.3. Effect Design](#313-effect-design)
-    + [3.2. Marketing](#32-marketing)
-      - [3.2.1. Instagram](#321-instagram)
-      - [3.2.2. YouTube](#322-youtube)
-      - [3.2.3. Trailer Video](#323-trailer-video)
-      - [3.2.4. DCInside](#324-dcinside)
-    + [3.3. Planning](#33-planning)
-      - [3.3.1. Aniserables](#331-aniserables)
-      - [3.3.2. RTD](#332-rtd)
+    + [2.6. Assets & Tools](#26-assets-&-tools)
+    + [2.7. Recent Update](#27-recent-update)
+  * [**3. My Projects**](#3-my-projects)
+    + [3.1. Team Projects](#31-team-projects)
+    + [3.2. Personal Projects](#32-personal-projects)
+  * [**4. Beyond Development**](#4-beyond-development)
+    + [4.1. Design](#41-design)
+      - [4.1.1. Pixel Art](#411-pixel-art)
+      - [4.1.2. Hand-drawn Illustration](#412-hand-drawn-illustration)
+      - [4.1.3. Effect Design](#413-effect-design)
+    + [4.2. Marketing](#42-marketing)
+      - [4.2.1. Instagram](#421-instagram)
+      - [4.2.2. YouTube](#422-youtube)
+      - [4.2.3. Trailer Video](#423-trailer-video)
+      - [4.2.4. DCInside](#424-dcinside)
+    + [4.3. Planning](#43-planning)
+      - [4.3.1. Aniserables](#431-aniserables)
+      - [4.3.2. RTD](#432-rtd)
 
 
 
@@ -102,62 +106,56 @@ Cooking-Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
 지금 보면 그래픽과 디자인은 부족한 클리커 게임이고 코드도 스파게티에 가깝지만, 기획부터 출시까지 끝까지 완성해낸 값진 경험이었습니다. 이 게임을 시작으로, 군 복무 전까지 쉬지 않고 개발을 이어왔습니다.
 
 ### 2.2. Self Improvement
-![Github Daily Contributions](assets/images/grass.gif)
+게임 개발을 포함해 제가 다루는 대부분의 기술은 독학으로 익혔습니다. 유튜브와 스택오버플로우, 블로그, 공식 문서를 찾아보고, 코드를 직접 뜯어보고, 수많은 버그와 디버깅을 거치며 배웠습니다.
 
-저는 대학교를 졸업한 이래로, 앞서 [1.3. Awards](#13-awards) 단원에서 언급했던 바와 같이, 퇴근 후와 주말 등의 여가시간에 오픈소스를 개발해 왔습니다. 특별한 일이 있지 않는 한 daily study 와 commit 을 목표로 꾸준한 자기계발을 해 왔습니다. 
-
-아마도 이를 가장 확연하게 증명할 수 있는 수단은 [제 Github 계정](https://github.com/samchon)이 아닐까 합니다. 위 gif 이미지는 저의 최근 5 년 간 Github 커밋 내역을 그래프화한 것으로써, 제가 그간 오픈소스에 얼마나 기여해왔는지를 가장 잘 보여준다고 생각합니다.
+궁금한 것은 바로 만들어보며 확인하는 즉흥적인 성격이고, 누군가에게 의존하기보다 스스로 해결하는 편이 편했습니다. 그 덕분에 시간과 장소 같은 환경에 구애받지 않고, 막히는 문제도 자기주도적으로 풀어낼 수 있게 되었습니다.
 
 ### 2.3. Solo Indie Development
-저는 표준 개발 절차를 준수하며, 이에 매우 숙달되어 있습니다.
+게임 제작을 시작하며, 개발 외에도 다양한 역량이 필요하다는 것을 알게 되었습니다. 특히 대부분의 프로젝트를 혼자 진행했기 때문에 기획, 마케팅, 디자인까지 스스로 익혀왔습니다.
 
-제가 프로그래밍에 막 입문하였던 어린 시절에는, 설계나 자료구조 뭐 이런 것에 대하여 전혀 모른 채, 프로그램을 그야말로 아무렇게나 만들었습니다. 하지만, 개발에 취미를 붙인 이래 이런 저런 프로그램을 만들어나가면서, 그리고 만들어나가는 개개별별 프로그램의 규모가 점점 커져나감에 따라, 설계 및 구조화된 프로그래밍의 중요성을 깨닫게 되었습니다.
-
-특히 20 대가 되고나서부터는, 다른 대형 프로젝트들이 그들의 아키텍처를 어떻게 설계하고 프로그램 코드를 어떤 식으로 짜는지 등이 궁금하여, 몇 가지 프로젝트를 분석해 본 바 있습니다. 그 중 특히 심도있게 관찰했던 것이 [Flex Framework](http://flex.apache.org/) 및 [Tour De Flex](http://flex.apache.org/tourdeflex/index.html) 의 여러 UI 컴포넌트들, 그리고 Microsoft 와 EA 가 각각 구현했던 C++ STL 라이브러리입니다. 이들 코드는 은연 중 저에게 많은 영향을 주어, [저의 Github](https://github.com/samchon) 코드에 그들의 스타일이 은은하게 묻어있고는 합니다.
-
-더불어 지금으로부터 약 10 년 전인 2011 년, 제 나름의 초대형 프로젝트 [3.2.2. Samchon Simulation](#322-samchon-simulation) (약 30 만 라인) 에서 오만가지 난항을 다 겪으며, 저는 아키텍처 설계의 중요성과 정체화된 프로그래밍의 중요성을 다시 한 번 체감하게 됩니다. 그리고 동시에 [2.4. 문서화](#24-documentation) 및 [2.5. TDD](#25-test-driven-development) 의 중요성을 뼈에 사묻히도록 느끼게 되어, 이 날 이후로는 [2.4. 문서화](#24-documentation) 및 [2.5. TDD](#25-test-driven-development) 에도 각별한 주의를 기울이고 있습니다.
+[마케팅](#42-Marketing) 역량을 기르기 위해 Meta 광고·비즈니스 도구와 영상 편집, 메디방(인스타툰 제작)을 공부했고, [기획](#43-Planning)은 실제 게임 회사의 기획서를 참고해 직접 작성해보며 탄탄히 다졌습니다.
+[디자인](#41-Design)은 게임에 들어가는 이미지 스프라이트, UI 등을 Aseprite와 손그림으로 직접 제작해보며 실력을 키웠습니다.
 
 ### 2.4. Documentation
-저는 개발 프로젝트를 진행함에 있어, 문서화를 매우 중요하게 여기며, 이를 항상 실천합니다.
+저는 프로젝트를 진행할 때 문서화를 놓치지 않습니다. 혼자 개발하는 일이 많아 문서화가 크게 필요하지 않다고 생각할 수 있지만, 백업을 위해서도 중요하고, 무엇보다 노트북으로 밖에서 작업하는 일이 많아 여러 환경 사이의 작업 상태를 동기화하려면 문서화가 필수였습니다.
 
-오픈소스 프로젝트를 진행함에 있어서도, Github 가 권장하는 문서 가이드 라인을 철저하게 준수하고 있습니다. 새로운 기능을 개발하거나 혹은 버그를 수정함에 있어서도 반드시 관련 issue 를 작성하고, 이에 대한 commit 도 반드시 issue 에 대한 reference 가 달리도록 하고 있습니다. 더불어 API 및 가이드 문서에 대해서도 철저하게 하는 편입니다.
+기록을 남겨두니 코드의 오류와 업데이트 상황을 한눈에 확인할 수 있었고, 지난 작업을 되짚을 때도 기억이 아닌 기록에 근거해 판단할 수 있었습니다.
+개발뿐 아니라 기획과 디자인, 마케팅까지 SNS, 전자문서 등 어떤 형식으로든 기록하는 습관 덕분에, 이 이력서 역시 부담 없이 작성할 수 있었습니다.
 
-  - TSTL 의 Issues: https://github.com/samchon/tstl/issues?q=is%3Aissue
-  - TGrid 의 Guide Documents: https://tgrid.com
-  - Typia 의 README 문서: https://github.com/samchon/typia
-
-또한, 회사에서 상용 프로젝트를 진행할 때도 이 점은 동일하며, 어떤 면에서는 오픈 소스보다 훨씬 철저하게 합니다. 상용 프로젝트 역시 모든 주요 개발 사안들에 대하여 issue 를 작성하고 있으며, 반드시 관련자들을 participants 로 등록하여 전파합니다. 
-
-그리고 매일 개발 업무일지를 작성하여 그 날에 있던 일들을 정리하며, 분기마다 그간 개발상황에 대한 점검 및 향후 개선사항들에 대하여 정리하여 보고하고 있습니다. 더불어 본인이 구현한 알고리즘이나 API 가 개념상 어려운 부분이 있다면, 반드시 상세 매뉴얼을 제작하여 관련자들에게 항시 교육해왔습니다.
-
-> 회사에서 작성했던 이슈 및 일일 업무일지는 퇴근하는 길에 핸드폰으로 복기하고, 새로운 기능이 필요하거나 기존 라이브러리도 충당이 안 되는 요소들이 있으면, 집에 가서 오픈소스로 직접 구현해보기도 합니다.
+이 습관은 팀 프로젝트에서도 좋게 작용했습니다. 작업 내용과 진행 상황을 공유할 수 있는 형태로 정리해두다 보니, 역할을 나누고 맞춰가는 분업이 어색하지 않았습니다.
 
 ### 2.5. Performance & Code Quality
-저는 [2.3. Standardization](#23-standardization) 단원에서 언급한 정제화된 설계 및 표준화만큼이나, 테스트 기반 개발에 대하여도 매우 중하게 여깁니다. 
+저는 개발할 때 최적화를 매우 중요하게 여기며, Unity Profiler, Memory Profiler, Frame Debugger로 병목을 먼저 측정한 뒤 개선합니다.
 
-때문에 저는 그 어떤 프로그램이나 솔루션을 만들던, 언제나 테스트 자동화 프로그램을 함께 제작합니다. 테스트 자동화 프로그램을 만듦에 있어 타 시스템과의 연동 문제가 걸려 애로사항이 피어나거든, 해당 시스템을 유사하게 흉내내서라도 검증 수단을 갖추는 것을 지향합니다.
+- **메모리·CPU**: 오브젝트 풀링과 캐싱으로 GC를 최소화하고, LINQ·박싱·문자열 연산을 지양합니다. Update문 사용을 줄여 코루틴과 이벤트 기반으로 설계하고, 릴리스 빌드에서는 Debug.Log를 제거합니다. 물리 연산은 Layer Collision Matrix를 정리하고 불필요한 Collider·Rigidbody를 없애 부하를 줄입니다.
+- **디자인·그래픽**: 스프라이트 아틀라스로 드로우콜을 줄이고, 같은 색은 하나로 통일하며 스프라이트 크기를 16px, 32px 등으로 맞춥니다. 텍스처 압축과 임포트 설정(Max Size, Mipmap, Read/Write)을 조정하고, 컬링, 오버드로우 줄이기, 셰이더 경량화, 파티클 최적화를 적용합니다. UI는 Canvas를 분리하고 불필요한 Raycast Target을 꺼서 관리합니다.
+- **사운드·빌드**: 효과음과 BGM의 로드 방식·압축 포맷을 구분하고, Addressables와 비동기 로딩으로 로딩 부담을 줄입니다. 빌드 최적화 설정을 적용하며, 수직동기화(VSync) 기능 구현과 프레임레이트 캡으로 모바일 발열과 배터리를 관리합니다.
 
-더불어 저는 어떤 프로그램을 만들 때, 본 기능부터 제작하기보다 제일 먼저 자료구조 및 인터페이스 설계를 먼저 합니다. 그 다음에도 본 프로그램을 만드는 게 아니라, 앞서 제작하였던 자료구조 및 인터페이스를 기초로, 테스트 자동화 프로그램부터 만듦니다. 본 프로그램 제작은 이 셋 중, 가장 마지막에 합니다.
+### 2.6. Assets & Tools
+저는 게임 한 편을 만들 때 약 20~30개의 에셋을 활용합니다. 직접 만들 필요가 없는 기능은 검증된 에셋으로 빠르게 해결하고, 그 시간을 게임 고유의 재미를 만드는 데 씁니다.
+iPools로 오브젝트 풀링을 구성하고, DOTween으로 UI 애니메이션을 제작하며, Odin Inspector로 인스펙터의 가독성을 높여 레벨 테스트가 편한 형태로 구성합니다.
+특히 웨이브와 스탯을 즉시 바꾸거나 몬스터와 아이템을 바로 소환하는 기능을 자주 구현해, 에디터 안에서 레벨과 밸런스를 검증합니다.
 
-이러한 저의 특성은 백엔드나 API 서버 등을 제작할 때 가장 두드러져, 저 준칙에서 벗어나는 일이 없습니다. 이후의 [4. Commercial Projects](#4-commercial-projects) 단원에 보면, 비고사항 중에 유독 "무 에러" 라는 단어가 많이 눈에 띌 것입니다. 물론, 이게 다 Test Driven Development 를 철저히 준수한 덕에 거둘 수 있던 성과입니다. 
+여기에 더해, 프로젝트마다 반복되는 작업은 직접 코드로 만들어 재사용합니다.
+CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제작해 게임 데이터 관리에 활용하고, 싱글톤을 쉽게 만들어주는 Singleton은 매니저처럼 전역에서 하나만 필요한 클래스에만 한정해 사용합니다.
 
-  - 개발 순서
-    - 자료구조 및 인터페이스 제작
-    - 테스트 자동화 프로그램 제작
-    - 본 프로그램 제작
-  - Github Actions
-    - https://github.com/samchon/tstl/runs/837330734?check_suite_focus=true
-    - https://github.com/samchon/tgrid/runs/837437346?check_suite_focus=true
-    - https://github.com/samchon/typia/actions/runs/3772134126/jobs/6412898042#step:7:2332
+### 2.7. Recent Update
+현재 공군 전산병으로 복무 중이며, 2027년 1월 전역을 앞두고 있습니다.
 
-### 2.6. Recent Update
-블라블라블라
+복무 기간을 그냥 흘려보내지 않았습니다. 군 내 SMS(Service Management System)를 개발했고, 이 프로그램은 현재 전 비행단에서 활용되고 있습니다. 또한 정보통신경연대회에서 3스타(참모총장상)를 수상했습니다.
+(참모총장상 이미지 첨부 예정)
+(SMS 개발 관련 문서 첨부 예정)
 
+보안이 중요한 환경 특성상 게임 개발은 잠시 멈췄지만, 그 시간을 게임과 거리가 먼 분야를 익히는 데 썼습니다. 엑셀과 쉘에 대한 이해를 쌓고, 리눅스 OS와 웹 해킹, 리버싱까지 공부했으며 토익도 꾸준히 준비했습니다. 이렇게 군 복무 중에도 자기계발을 소홀히 하지 않았습니다.
 
+## 3. My Projects
+### 4.1. Team Project
 
-## 3. Beyond Development
-### 3.1. Design
-#### 3.1.1. Pixel Art
+### 4.2. Personal Projects
+
+## 4. Beyond Development
+### 4.1. Design
+#### 4.1.1. Pixel Art
 https://github.com/samchon/typia
 
 Typia 는 세상에서 가장 쉽고 빠른 Runtime Validator 라이브러리입니다. 
@@ -168,7 +166,7 @@ Typia 는 세상에서 가장 쉽고 빠른 Runtime Validator 라이브러리입
 
 ![Typia Benchmark](https://github.com/samchon/typia/raw/master/benchmark/results/11th%20Gen%20Intel(R)%20Core(TM)%20i5-1135G7%20%40%202.40GHz/images/is.svg)
 
-#### 3.1.2. Hand-drawn Illustration
+#### 4.1.2. Hand-drawn Illustration
 https://github.com/samchon/nestia
 
 A set of helper libraries for NestJS.
@@ -201,7 +199,7 @@ export class BbsArticlesController {
 ```
 
 
-#### 3.1.3. Effect Design
+#### 4.1.3. Effect Design
 https://github.com/samchon/reactia
 
 Reactia 는 TypeScrit Type 정보를 컴파일러 수준에서 분석, React 컴포넌트를 자동으로 생성하고 배치해주는 라이브러리입니다. 
@@ -212,8 +210,8 @@ Reactia 는 TypeScrit Type 정보를 컴파일러 수준에서 분석, React 컴
 
 
 
-### 3.2. Marketing
-#### 3.2.1. Instagram
+### 4.2. Marketing
+#### 4.2.1. Instagram
 Hansung Timetable Simulator.
 
   - Manual: [assets/manuals/hansung-timetable.pdf](assets/manuals/hansung-timetable.pdf)
@@ -227,7 +225,7 @@ Hansung Timetable Simulator.
 
 당시 이 프로그램을 만들고 학번을 기준으로 한 순 사용자만 3 천명에 달하였을 정도로, 학생들 사이에서 널리 쓰였습니다. 덕분에 어느 강의를 들어가던, 저를 알아보는 사람이 꼭 한 둘 이상씩은 있었습니다. 더불어 `hansung-timetable` 은 제가 개인 프로젝트로 만든 프로그램 중, 유일하게 라이브러리나 프레임워크가 아닌, 대중적인 프로그램이기도 했습니다.
 
-#### 3.2.2. YouTube
+#### 4.2.2. YouTube
 Stock Simulation & Back Testing.
 
   - Manual: [assets/manuals/samchon-simulation.pdf](assets/manuals/samchon-simulation.pdf)
@@ -248,7 +246,7 @@ Stock Simulation & Back Testing.
 
 또한, `samchon-simulation` 은 주 알고리즘 및 연산은 C++ 로 만들었고, 프론트 어플리케이션은 Flex 로 만들었습니다. 게다가 데모 버전은 클라우드 형태로 만들었기에, C++ 과 Flex 간에 네트워크 통신을 통한 상호 연동이 필요습니다. 바로 이 때 만들었던 연동 모듈이, 후일 상용 프로젝트 [4.1.1. OraQ (Selene TR-1)](#411-oraq-selene-tr-1) 에서 쓰인 [3.1.1. Samchon Framework](#311-samchon-framework) 입니다.
 
-#### 3.2.3. Trailer Video
+#### 4.2.3. Trailer Video
 Complicate Dicision Tree.
 
   - Manual: [assets/manuals/nam-tree.pdf](assets/manuals/nam-tree.pdf)
@@ -263,14 +261,14 @@ Complicate Dicision Tree.
 
 혹 자세한 내용이 궁금하시다면, 첨부된 [매뉴얼](assets/manuals/nam-tree.pdf) 을 참고해주십시오.
 
-#### 3.2.4. DCInside
+#### 4.2.4. DCInside
 블라블라블라
 
 
 
-### 3.3. Planning
-#### 3.3.1. Aniserables
+### 4.3. Planning
+#### 4.3.1. Aniserables
 블라블라
 
-#### 3.3.2. RTD
+#### 4.3.2. RTD
 블라블라
