@@ -5,6 +5,11 @@
     + [1.2. Educations](#12-educations)
     + [1.3. Skills](#13-skills)
     + [1.4. Experiences](#14-experiences)
+      - [1.4.1. RudenSmith](#141-rudensmith)
+      - [1.4.2. HIM](#142-him)
+      - [1.4.3. CookieLabs](#143-cookielabs)
+      - [1.4.4. TurtleRun](#144-turtlerun)
+      - [1.4.5. Boulangerie](#145-boulangerie)
   * [**2. Introduction**](#2-introduction)
     + [2.1. Where It Began](#21-where-it-began)
     + [2.2. Self Improvement](#22-self-improvement)
@@ -13,22 +18,19 @@
     + [2.5. Performance & Code Quality](#25-performance-&-code-quality)
     + [2.6. Assets & Tools](#26-assets-&-tools)
     + [2.7. Recent Update](#27-recent-update)
-  * [**3. My Projects**](#3-my-projects)
-    + [3.1. Team Projects](#31-team-projects)
-    + [3.2. Personal Projects](#32-personal-projects)
-  * [**4. Beyond Development**](#4-beyond-development)
-    + [4.1. Design](#41-design)
-      - [4.1.1. Pixel Art](#411-pixel-art)
-      - [4.1.2. Hand-drawn Illustration](#412-hand-drawn-illustration)
-      - [4.1.3. Effect Design](#413-effect-design)
-    + [4.2. Marketing](#42-marketing)
-      - [4.2.1. Instagram](#421-instagram)
-      - [4.2.2. YouTube](#422-youtube)
-      - [4.2.3. Trailer Video](#423-trailer-video)
-      - [4.2.4. DCInside](#424-dcinside)
-    + [4.3. Planning](#43-planning)
-      - [4.3.1. Aniserables](#431-aniserables)
-      - [4.3.2. RTD](#432-rtd)
+  * [**3. Beyond Development**](#4-beyond-development)
+    + [3.1. Design](#41-design)
+      - [3.1.1. Pixel Art](#411-pixel-art)
+      - [3.1.2. Hand-drawn Illustration](#412-hand-drawn-illustration)
+      - [3.1.3. Effect Design](#413-effect-design)
+    + [3.2. Marketing](#42-marketing)
+      - [3.2.1. Instagram](#421-instagram)
+      - [3.2.2. YouTube](#422-youtube)
+      - [3.2.3. Trailer Video](#423-trailer-video)
+      - [3.2.4. DCInside](#424-dcinside)
+    + [3.3. Planning](#43-planning)
+      - [3.3.1. Aniserables](#431-aniserables)
+      - [3.3.2. RTD](#432-rtd)
 
 
 
@@ -124,27 +126,42 @@ Team/Project | Entry Date | Leave Date | Role | Form
 
 코코네스쿨에서 알게 된 지인이 만든 스타트업으로, 블록체인과 웹3 환경에서 탈중앙화 애플리케이션을 만들던 회사입니다. 저는 초기 멤버로 합류해 게임 개발을 맡았고, 총 2개의 게임을 제작했습니다.
 
-- **[슬라임팡팡](링크)**: 안드로이드용으로 만들었던 게임을 웹게임으로 추가 빌드하고, 텔레그램 API를 연동해 가상화폐와 NFT 디자인 요소를 넣었습니다.
-<a href="assets/slimepangpang_trailer.mp4">
-  <img src="assets/slimepangpang.jpg" alt="슬라임 팡팡 동영상" width="300">
-</a>
-<br>
-
-- **[머지슬라임](링크)**: 텔레그램 API를 활용한 방치형 웹게임을 새로 제작했습니다.
+- **[슬라임팡팡](https://github.com/HongDaHyun/SlimePangPang)**: 안드로이드용으로 만들었던 게임을 웹게임으로 추가 빌드하고, 텔레그램 API를 연동해 가상화폐와 NFT 디자인 요소를 넣었습니다.
+  
+  <a href="assets/slimepangpang_trailer.mp4">
+   <img src="assets/slimepangpang.jpg" alt="슬라임 팡팡 동영상" width="300">
+  </a>
+  
+- **[머지슬라임](https://github.com/HongDaHyun/MergeSlime)**: 텔레그램 API를 활용한 방치형 웹게임을 새로 제작했습니다.
 
    ![머지슬라임](assets/mergeslime.gif)
 
 이 두 게임으로 텔레그램과의 미팅을 성공적으로 마쳐, 스토어에 정식 등록해도 좋다는 허락을 받았습니다. 당시 기준으로 국내에서 텔레그램 스토어 입점에 성공한 곳은 저희 회사뿐이었습니다.
+  
+> 아래 이미지는 실제 화상미팅 장면 캡처본이고, 초상권을 위해 얼굴은 가렸습니다.
+
+<img src="assets/telegram.jpg" alt="텔레그램 미팅" width="300">
 
 </details>
 
-#### 1.4.4. 졸업작품: TurtleRun
-> 2024-03 ~ 2024-06 · 개발(메인화면·미니게임, 코드 통합), 디자인
+#### 1.4.4. TurtleRun
+> 2024-03 ~ 2024-06 · 4명 · 개발(메인화면·미니게임, 코드 통합), 디자인
 
 <details>
 <summary>자세히 보기</summary>
 
-설명을 여기에 작성합니다.
+**[TurtleRun](링크)**: 레이싱 게임에 AI 모델을 접목한 게임입니다. 플레이어가 직접 운전하는 대신, 학습된 AI 모델이 자율주행으로 달리고 플레이어는 어떤 모델을 고르고 키울지 전략을 세웁니다.
+
+- **재화 획득**: 미니게임을 플레이해 재화를 모읍니다.
+- **모델 구매·업그레이드**: 재화로 학습된 AI 모델을 구매하고 업그레이드합니다.
+- **모델마다 다른 성향**: 이곳저곳 부딪히는 AI, 커브에서 브레이크를 세게 밟는 AI, 항상 액셀만 밟는 AI처럼 성향이 제각각입니다.
+- **전략과 경쟁**: 맵 구조에 맞는 모델을 선택·업그레이드해 다른 플레이어와 기록 경쟁을 합니다.
+
+저는 메인화면과 미니게임 개발, 팀원 코드 통합을 맡았고, 아트는 전부 혼자 제작했습니다. AI 모델 학습은 팀원이 주로 담당했고, 저는 학습된 모델이 게임 안에서 동작하도록 통합하는 작업에 참여했습니다. 졸업작품 평가단에게 좋은 평가를 받았고, 특히 디자인 부문에서 높은 평가를 받았습니다.
+
+<a href="assets/turtlerun_trailer.mp4">
+ <img src="assets/링크" alt="터틀런 동영상" width="300">
+</a>
 
 </details>
 
@@ -154,7 +171,7 @@ Team/Project | Entry Date | Leave Date | Role | Form
 
 업데이트 예정입니다.
 
-#### 1.4.5. 졸업작품: Boulangerie
+#### 1.4.5. Boulangerie
 > 2024-11 ~ 2025-03 · 개발
 
 <details>
@@ -229,42 +246,10 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
 
 보안이 중요한 환경 특성상 게임 개발은 잠시 멈췄지만, 그 시간을 게임과 거리가 먼 분야를 익히는 데 썼습니다. 엑셀과 쉘에 대한 이해를 쌓고, 리눅스 OS와 웹 해킹, 리버싱까지 공부했으며 토익도 꾸준히 준비했습니다. 이렇게 군 복무 중에도 자기계발을 소홀히 하지 않았습니다.
 
-## 3. My Projects
-### 3.1. Team Project
-#### 3.1.1 RudenSmith
-제작
 
-#### 3.1.2 HIM
-
-#### 3.1.3 CookieLabs
-
-#### 3.1.4 TurtleRun
-
-#### 3.1.5 Boulangerie
-
-### 3.2. Personal Projects
-#### 3.2.1 군 비기 "침상 점프"
-
-
-#### 3.2.2 RetroSurvivor
-
-#### 3.2.3 RandomTowerDefense
-
-#### 3.2.4 KingsUp
-
-#### 3.2.5 ChessDodge
-
-#### 3.2.6 SlimePangPang
-
-#### 3.2.7 Tactics-Adventure
-
-#### 3.2.8 MergeSlime
-
-#### 3.2.9 Cooking-Vampire
-
-## 4. Beyond Development
-### 4.1. Design
-#### 4.1.1. Pixel Art
+## 3. Beyond Development
+### 3.1. Design
+#### 3.1.1. Pixel Art
 https://github.com/samchon/typia
 
 Typia 는 세상에서 가장 쉽고 빠른 Runtime Validator 라이브러리입니다. 
@@ -275,7 +260,7 @@ Typia 는 세상에서 가장 쉽고 빠른 Runtime Validator 라이브러리입
 
 ![Typia Benchmark](https://github.com/samchon/typia/raw/master/benchmark/results/11th%20Gen%20Intel(R)%20Core(TM)%20i5-1135G7%20%40%202.40GHz/images/is.svg)
 
-#### 4.1.2. Hand-drawn Illustration
+#### 3.1.2. Hand-drawn Illustration
 https://github.com/samchon/nestia
 
 A set of helper libraries for NestJS.
@@ -308,7 +293,7 @@ export class BbsArticlesController {
 ```
 
 
-#### 4.1.3. Effect Design
+#### 3.1.3. Effect Design
 https://github.com/samchon/reactia
 
 Reactia 는 TypeScrit Type 정보를 컴파일러 수준에서 분석, React 컴포넌트를 자동으로 생성하고 배치해주는 라이브러리입니다. 
@@ -319,8 +304,8 @@ Reactia 는 TypeScrit Type 정보를 컴파일러 수준에서 분석, React 컴
 
 
 
-### 4.2. Marketing
-#### 4.2.1. Instagram
+### 3.2. Marketing
+#### 3.2.1. Instagram
 Hansung Timetable Simulator.
 
   - Manual: [assets/manuals/hansung-timetable.pdf](assets/manuals/hansung-timetable.pdf)
@@ -334,7 +319,7 @@ Hansung Timetable Simulator.
 
 당시 이 프로그램을 만들고 학번을 기준으로 한 순 사용자만 3 천명에 달하였을 정도로, 학생들 사이에서 널리 쓰였습니다. 덕분에 어느 강의를 들어가던, 저를 알아보는 사람이 꼭 한 둘 이상씩은 있었습니다. 더불어 `hansung-timetable` 은 제가 개인 프로젝트로 만든 프로그램 중, 유일하게 라이브러리나 프레임워크가 아닌, 대중적인 프로그램이기도 했습니다.
 
-#### 4.2.2. YouTube
+#### 3.2.2. YouTube
 Stock Simulation & Back Testing.
 
   - Manual: [assets/manuals/samchon-simulation.pdf](assets/manuals/samchon-simulation.pdf)
@@ -355,7 +340,7 @@ Stock Simulation & Back Testing.
 
 또한, `samchon-simulation` 은 주 알고리즘 및 연산은 C++ 로 만들었고, 프론트 어플리케이션은 Flex 로 만들었습니다. 게다가 데모 버전은 클라우드 형태로 만들었기에, C++ 과 Flex 간에 네트워크 통신을 통한 상호 연동이 필요습니다. 바로 이 때 만들었던 연동 모듈이, 후일 상용 프로젝트 [4.1.1. OraQ (Selene TR-1)](#411-oraq-selene-tr-1) 에서 쓰인 [3.1.1. Samchon Framework](#311-samchon-framework) 입니다.
 
-#### 4.2.3. Trailer Video
+#### 3.2.3. Trailer Video
 Complicate Dicision Tree.
 
   - Manual: [assets/manuals/nam-tree.pdf](assets/manuals/nam-tree.pdf)
@@ -370,14 +355,14 @@ Complicate Dicision Tree.
 
 혹 자세한 내용이 궁금하시다면, 첨부된 [매뉴얼](assets/manuals/nam-tree.pdf) 을 참고해주십시오.
 
-#### 4.2.4. DCInside
+#### 3.2.4. DCInside
 블라블라블라
 
 
 
-### 4.3. Planning
-#### 4.3.1. 애니제라블
+### 3.3. Planning
+#### 3.3.1. 애니제라블
 블라블라
 
-#### 4.3.2. RTD
+#### 3.3.2. RTD
 블라블라
