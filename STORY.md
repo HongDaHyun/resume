@@ -106,7 +106,7 @@ Team/Project | Entry Date | Leave Date | Role | Form
 <summary>자세히 보기</summary>
 
 **[HIM](https://github.com/HongDaHyun/HIM)**: '하이아임'의 줄임말로, 옛날 미니홈피처럼 자기 캐릭터를 꾸미고 성격과 취미를 보여주는 SNS 성향의 플랫폼입니다. 게임이 아닌 서비스였고, 인스타그램 이용층을 타겟으로 했습니다.
-[!하이아임](링크)
+![하이아임](링크)
 
 - **컨셉**: 나만의 캐릭터를 중심으로 자신을 표현하고 공유하는 공간
 - **BM**: 캐릭터 커스터마이징 기능(옷, 액세서리 등)을 수익 모델로 설계
@@ -125,8 +125,14 @@ Team/Project | Entry Date | Leave Date | Role | Form
 코코네스쿨에서 알게 된 지인이 만든 스타트업으로, 블록체인과 웹3 환경에서 탈중앙화 애플리케이션을 만들던 회사입니다. 저는 초기 멤버로 합류해 게임 개발을 맡았고, 총 2개의 게임을 제작했습니다.
 
 - **[슬라임팡팡](링크)**: 안드로이드용으로 만들었던 게임을 웹게임으로 추가 빌드하고, 텔레그램 API를 연동해 가상화폐와 NFT 디자인 요소를 넣었습니다.
-  [![슬라임팡팡](assets/slimepangpang.jpg)](assets/slimepangpang.mp4)
+<a href="assets/slimepangpang_trailer.mp4">
+  <img src="assets/slimepangpang.jpg" alt="슬라임 팡팡 동영상" width="300">
+</a>
+<br>
+
 - **[머지슬라임](링크)**: 텔레그램 API를 활용한 방치형 웹게임을 새로 제작했습니다.
+
+   ![머지슬라임](assets/mergeslime.gif)
 
 이 두 게임으로 텔레그램과의 미팅을 성공적으로 마쳐, 스토어에 정식 등록해도 좋다는 허락을 받았습니다. 당시 기준으로 국내에서 텔레그램 스토어 입점에 성공한 곳은 저희 회사뿐이었습니다.
 
