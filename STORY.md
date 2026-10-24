@@ -80,8 +80,8 @@ Team/Project | Entry Date | Leave Date | Role | Form
 [RudenSmith](#141-rudensmith) | 2022-09 | 2023-01 | 개발/서브 디자인 | 개발 중 해체
 [HIM](#142-him) | 2023-02 | 2023-05 | 개발/디자인 | 개발 중 해체
 [CookieLabs](#143-cookielabs) | 2023-11 | 2024-06 | 개발 | 스타트업 초기멤버 (무급, 사업자 등록 전)
-[졸업작품(TurtleRun)](#144-졸업작품-turtlerun) | 2024-03 | 2024-06 | 개발(메인화면·미니게임, 코드 통합), 디자인 | 학업 프로젝트
-[졸업작품(Boulangerie)](#145-졸업작품-boulangerie) | 2024-11 | 2025-03 | 개발 | 학업 프로젝트
+[졸업작품(TurtleRun)](#144-turtlerun) | 2024-03 | 2024-06 | 개발(메인화면·미니게임, 코드 통합), 디자인 | 학업 프로젝트
+[협업(Boulangerie)](#145-boulangerie) | 2024-11 | 2025-03 | 개발 | 학업 프로젝트
 
 #### 1.4.1. RudenSmith
 > 2022-09 ~ 2023-01 · 5명 · 개발, 서브 디자인
@@ -126,13 +126,13 @@ Team/Project | Entry Date | Leave Date | Role | Form
 
 코코네스쿨에서 알게 된 지인이 만든 스타트업으로, 블록체인과 웹3 환경에서 탈중앙화 애플리케이션을 만들던 회사입니다. 저는 초기 멤버로 합류해 게임 개발을 맡았고, 총 2개의 게임을 제작했습니다.
 
-- **[슬라임팡팡](https://github.com/HongDaHyun/SlimePangPang)**: 안드로이드용으로 만들었던 게임을 웹게임으로 추가 빌드하고, 텔레그램 API를 연동해 가상화폐와 NFT 디자인 요소를 넣었습니다.
+- **[슬라임팡팡](https://github.com/cookie-labs/SlimePangPang)**: 안드로이드용으로 만들었던 게임을 웹게임으로 추가 빌드하고, 텔레그램 API를 연동해 가상화폐와 NFT 디자인 요소를 넣었습니다.
   
   <a href="assets/slimepangpang_trailer.mp4">
    <img src="assets/slimepangpang.jpg" alt="슬라임 팡팡 동영상" width="300">
   </a>
   
-- **[머지슬라임](https://github.com/HongDaHyun/MergeSlime)**: 텔레그램 API를 활용한 방치형 웹게임을 새로 제작했습니다.
+- **[머지슬라임](https://github.com/cookie-labs/MergeSlime)**: 텔레그램 API를 활용한 방치형 웹게임을 새로 제작했습니다.
 
    ![머지슬라임](assets/mergeslime.gif)
 
@@ -165,22 +165,28 @@ Team/Project | Entry Date | Leave Date | Role | Form
 
 </details>
 
+#### 1.4.5. Boulangerie
+> 2024-11 ~ 2025-03 · 유럽어문학과 협업 · 개발
+
+<details>
+<summary>자세히 보기</summary>
+
+**[Boulangerie](https://github.com/daaexkim/Boulangerie)**: 슬라임팡팡과 같은 수박게임 장르로, 프랑스어 학습을 돕기 위해 만든 게임입니다. 한국인에게 어렵게 느껴지는 프랑스어 명사의 성(남성, 여성) 구분을 게임으로 익힐 수 있게 합니다.
+
+- **규칙**: 수박 대신 프랑스의 빵이 등장하고, 빵마다 남성명사나 여성명사 중 하나가 붙어 있습니다. **같은 성의 빵끼리만 합쳐지기** 때문에, 플레이하면서 자연스럽게 명사의 성을 구분하게 됩니다.
+- **3가지 모드**: 명사가 없는 일반 수박게임 모드, 남성명사는 파란색·여성명사는 핑크색으로 구분해 보여주는 초보자 모드, 색 표시 없이 직접 구분해야 하는 고급자 모드로 학습 수준에 따라 난이도를 나눴습니다.
+- **단어 관리**: 단어 목록을 CSV 파일로 관리해, 프랑스어 전공 팀원이 만든 데이터를 코드 수정 없이 게임에 반영할 수 있게 했습니다.
+- **점수 경쟁**: 구글 클라우드 서비스를 이용해 플레이어 간 점수 경쟁 기능을 구현했습니다.
+
+유럽어문학과(프랑스어) 학생의 졸업작품으로, 기획과 디자인은 그 친구가, 개발은 제가 전담했습니다. 그 학과에서 게임을 개발하는 학생은 그 친구 한 명뿐이었고, 서로 다른 전공이 만나 학습 도구를 게임으로 풀어낸다는 제안이 재미있어 수락했습니다.
+
+</details>
+  
 ---
 
 ### 🚧 아직 제작중입니다.
 
 업데이트 예정입니다.
-
-#### 1.4.5. Boulangerie
-> 2024-11 ~ 2025-03 · 개발
-
-<details>
-<summary>자세히 보기</summary>
-
-설명을 여기에 작성합니다.
-
-</details>
-
 - 총 단독 프로젝트 경험: 약 29개월
 
 Project | Start Date | Finish Date | Platform | Genre | Status
@@ -190,9 +196,7 @@ RetroSurvivor | 2022-06 | 2022-09 | Android | 뱀서류 | 개발중단
 RandomTowerDefense | 2023-02 | 2024-12 | Android | 랜타디 + 로그라이크 | 출시완료
 KingsUp | 2023-07 | 2023-08 | Android | 플랫폼 게임 | 출시완료
 ChessDodge | 2023-08 | 2024-04 | Android | 로그라이크 택티컬 탄막 | 개발중단
-SlimePangPang | 2023-11 | 2024-06 | Web/Android | 수박게임 | 출시완료
 Tactics-Adventure | 2024-01 | 2024-03 | Android | 턴제 전략 카드 퍼즐 게임 | 개발 중단
-MergeSlime | 2024-04 | 2024-06 | Web | 캐주얼 방치형/시뮬레이션 | 출시완료
 Cooking-Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
 
 ## 2. Introduction
