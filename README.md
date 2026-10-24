@@ -1,5 +1,5 @@
 .# Resume of [HongDaHyun](https://github.com/HongDaHyun)
-> 이 문서는 축약 이력서로써, 각 단원의 링크를 클릭하면, 상세 페이지로 이동합니다.
+> 이 문서는 축약 이력서로써, 각 단원의 링크를 클릭하면, 상세 페이지로 이동합니다.  
 현재 군 복무 중이며, 이미지 및 동영상 자료는 휴가 기간을 활용해 순차적으로 업데이트하고 있습니다. 일부 자료는 추후 추가될 예정입니다.
 
 ## [1. Outline](https://github.com/HongDaHyun/resume/blob/master/STORY.md#1-outline)
@@ -25,7 +25,7 @@ Unity        | 5 년        | 엔진 내부 구조에 대한 깊은 이해를 �
 Aseprite     | 5 년        | 도트 그래픽 디자인 전문 — 캐릭터 애니메이션 및 이펙트 스프라이트 제작 가능
 ExCel        | 2 년        | CSV 기반 게임 데이터베이스 설계 및 구축, 기획-개발 간 데이터 파이프라인 정립
 
-### [1.4. Experiences](https://github.com/HongDaHyun/resume/blob/master/STORY.md#14-experiences)
+### [1.4. Team Projects](https://github.com/HongDaHyun/resume/blob/master/STORY.md#14-team-projects)
 - 총 협업 경험: 약 17개월
 
 Team/Project | Entry Date | Leave Date | Role | Form
@@ -36,19 +36,18 @@ Team/Project | Entry Date | Leave Date | Role | Form
 [졸업작품(TurtleRun)](링크) | 2024-03 | 2024-06 | 개발(메인화면·미니게임, 코드 통합), 디자인 | 학업 프로젝트
 [졸업작품(Boulangerie)](링크) | 2024-11 | 2025-03 | 개발 | 학업 프로젝트
 
+### [1.5. Personal Projects](https://github.com/HongDaHyun/resume/blob/master/STORY.md#15-personal-projects)
 - 총 단독 프로젝트 경험: 약 29개월
 
 Project | Start Date | Finish Date | Platform | Genre | Status
 --------|------------|------------|-------|-----------------|----
 군 비기 "침상 점프" | -          | 2022-03    | Android | 클리커(유명 유튜버 팬게임) | 출시완료
 RetroSurvivor | 2022-06 | 2022-09 | Android | 뱀서류 | 개발중단
-RandomTowerDefense | 2023-02 | 2024-12 | Android | 랜타디 + 로그라이크 | 출시완료
+RTD | 2023-02 | 2024-12 | Android | 랜타디 + 로그라이크 | 출시완료
 KingsUp | 2023-07 | 2023-08 | Android | 플랫폼 게임 | 출시완료
 ChessDodge | 2023-08 | 2024-04 | Android | 로그라이크 택티컬 탄막 | 개발중단
-SlimePangPang | 2023-11 | 2024-06 | Web/Android | 수박게임 | 출시완료
-Tactics-Adventure | 2024-01 | 2024-03 | Android | 턴제 전략 카드 퍼즐 게임 | 개발 중단
-MergeSlime | 2024-04 | 2024-06 | Web | 캐주얼 방치형/시뮬레이션 | 출시완료
-Cooking-Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
+Tactics Adventure | 2024-01 | 2024-03 | Android | 턴제 전략 카드 퍼즐 게임 | 개발 중단
+Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
 
 
 ## [2. Introduction](https://github.com/HongDaHyun/resume/blob/master/STORY.md#2-introduction)
