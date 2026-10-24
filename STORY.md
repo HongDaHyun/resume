@@ -10,7 +10,7 @@
       - [1.4.3. CookieLabs](#143-cookielabs)
       - [1.4.4. TurtleRun](#144-turtlerun)
       - [1.4.5. Boulangerie](#145-boulangerie)
-    + [1.5. Personal Projects](#14-personal-projects)
+    + [1.5. Personal Projects](#15-personal-projects)
   * [**2. Introduction**](#2-introduction)
     + [2.1. Where It Began](#21-where-it-began)
     + [2.2. Self Improvement](#22-self-improvement)
@@ -19,19 +19,19 @@
     + [2.5. Performance & Code Quality](#25-performance-&-code-quality)
     + [2.6. Assets & Tools](#26-assets-&-tools)
     + [2.7. Recent Update](#27-recent-update)
-  * [**3. Beyond Development**](#4-beyond-development)
-    + [3.1. Design](#41-design)
-      - [3.1.1. Pixel Art](#411-pixel-art)
-      - [3.1.2. Hand-drawn Illustration](#412-hand-drawn-illustration)
-      - [3.1.3. Effect Design](#413-effect-design)
-    + [3.2. Marketing](#42-marketing)
-      - [3.2.1. Instagram](#421-instagram)
-      - [3.2.2. YouTube](#422-youtube)
-      - [3.2.3. Trailer Video](#423-trailer-video)
-      - [3.2.4. DCInside](#424-dcinside)
-    + [3.3. Planning](#43-planning)
-      - [3.3.1. Aniserables](#431-aniserables)
-      - [3.3.2. RTD](#432-rtd)
+  * [**3. Beyond Development**](#3-beyond-development)
+    + [3.1. Design](#31-design)
+      - [3.1.1. Pixel Art](#311-pixel-art)
+      - [3.1.2. Hand-drawn Illustration](#312-hand-drawn-illustration)
+      - [3.1.3. Effect Design](#313-effect-design)
+    + [3.2. Marketing](#32-marketing)
+      - [3.2.1. Instagram](#321-instagram)
+      - [3.2.2. YouTube](#322-youtube)
+      - [3.2.3. Trailer Video](#323-trailer-video)
+      - [3.2.4. DCInside](#324-dcinside)
+    + [3.3. Planning](#33-planning)
+      - [3.3.1. Aniserables](#331-aniserables)
+      - [3.3.2. RTD](#332-rtd)
 
 
 
@@ -201,8 +201,8 @@ Project | Start Date | Finish Date | Platform | Genre | Status
 RetroSurvivor | 2022-06 | 2022-09 | Android | 뱀서류 | 개발중단
 RTD | 2023-02 | 2024-12 | Android | 랜타디 + 로그라이크 | 출시완료
 KingsUp | 2023-07 | 2023-08 | Android | 플랫폼 게임 | 출시완료
-ChessDodge | 2023-08 | 2024-04 | Android | 로그라이크 택티컬 탄막 | 개발중단
-Tactics Adventure | 2024-01 | 2024-03 | Android | 턴제 전략 카드 퍼즐 게임 | 개발 중단
+ChessDodge | 2023-08 | 2024-04 | Android | 체스판 위 턴제 피하기 | 개발중단
+Tactics Adventure | 2024-01 | 2024-03 | Android | 턴제 전략 카드 퍼즐 게임 | 보류
 Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
 
 <details>
@@ -226,29 +226,64 @@ Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
 </details>
 
 <details>
-<summary><b>RTD</b> · 랜덤 타워디펜스 + 로그라이크 · Android · 2023-02 ~ 2024-12</summary>
+<summary><b>RandomTowerDefense</b> · 랜덤 타워디펜스 + 로그라이크 · Android · 2023-02 ~ 2024-12</summary>
 
 <br>
 
-설명을 여기에 작성합니다.
+랜덤 타워디펜스에 로그라이트 요소를 더한 게임으로, 몬스터 웨이브를 20까지 막아내면 승리합니다. 마지막 웨이브에는 보스 몬스터가 등장하는 등 애착을 가지고 만든 작품입니다.
+
+  ![사진첨부예정](assets/알티디사진) 
+- **타워 뽑기**: 열쇠를 사용해 활, 격투, 불, 독, 권총, 칼, 얼음, 번개 8가지 종류의 타워를 무작위로 뽑습니다.
+- **합성**: 같은 타워를 합쳐 한 단계 업그레이드된 새로운 종류의 타워를 얻습니다.
+- **열쇠 획득**: 웨이브가 끝나면 자동으로 지급되고, 퀘스트를 클리어하면 추가로 얻어 더 다양한 타워를 뽑을 수 있습니다.
+- **특성 선택**: 몬스터를 처치해 레벨업할 때마다 무작위로 뜨는 3개의 특성 중 하나를 고릅니다. 특정 타워의 스탯을 올리거나, 번개 타워에 스턴을, 독 타워에 방어력 감소를 부여하는 식이며, 특성 간 시너지로 자신만의 빌드를 만들 수 있습니다.
+
+**반응**: 주변에서 좋은 반응을 얻었고, [인스타그램](#321-instagram)에서 좋아요 100개 이상을 받았습니다. 구글 플레이 콘솔 기준으로 하루 최대 72명이 설치를 유지했고, 이는 유명인의 도움 없이 혼자 힘으로 모은 제 게임 중 가장 많은 수치입니다.
+ 
+
+**개선**: 이용자들에게 레벨 디자인과 최적화에 대한 피드백을 많이 받아 이를 해결해나갔습니다.
+- **최적화**: 모바일 기기에 맞춘 빌드, 수직동기화 ON/OFF 기능, 파티클 최적화, 컬링 등 새로운 기법을 익히며 적용했습니다.
+- **레벨·밸런스**: 레벨 테스트를 많이 진행하기 위해 인스펙터를 테스트하기 편하게 구성하고, 특성 간 밸런스를 맞추는 데 공을 들였습니다.
 
 </details>
 
 <details>
-<summary><b>ChessDodge</b> · 체스판 위 턴제 총알피하기 · Android · 2023-08 ~ 2024-04</summary>
+<summary><b>ChessDodge</b> · 체스판 위 턴제 피하기 · Android · 2023-08 ~ 2024-04</summary>
 
 <br>
 
-설명을 여기에 작성합니다.
+체스판 위의 폰이 되어 다양한 체스 말의 공격을 피하는 턴제 피하기 게임입니다. 킬링타임용으로 만들었습니다.
+
+- **적**: 실제 체스 말이 등장하고 공격 방식도 원작을 따릅니다. 룩은 일직선으로, 비숍은 대각선으로, 퀸은 사방으로 공격합니다.
+- **패턴**: 말이 무작위로 등장하거나, 일부 칸만 남기고 나머지 칸에 하늘에서 말이 떨어지는 등 다양한 패턴을 구성했습니다.
+
+**마케팅 판단**: 처음에는 [디시인사이드 인디게임개발 마이너 갤러리](#324-dcinside)에 개발일지를 올렸습니다. 하지만 이용자층이 게임 개발자뿐이라 잠재 사용자를 얻기 어렵다고 판단했고, 잠재 사용자가 더 많고 반응도 좋은 인스타그램으로 채널을 옮겼습니다.
+
+**중단 이유**: 버그가 잦았고, 게임이 단순해 재미가 부족했는데 이를 기획력의 한계로 판단했습니다. 마침 [CookieLabs](#143-cookielabs)에서 합류 제의가 와서, 새 프로젝트에 집중하기 위해 개발을 중단했습니다.
+
+▶ [클릭](https://www.instagram.com/p/Cv_q3epyyS_/?xtok=OHY2c3NmaGnyajE0)하면 인스타그램 기획 게시물으로 이동합니다.
+
+<br>▶ 클릭하면 인스타그램으로 이동합니다.
 
 </details>
 
 <details>
-<summary><b>Tactics Adventure</b> · 턴제 전략 카드 퍼즐 · Android · 2024-01 ~ 2024-03</summary>
+<summary><b>Tactics-Adventure</b> · 턴제 전략 카드 퍼즐 · Android · 2024-01 ~ 2024-03</summary>
 
 <br>
 
-설명을 여기에 작성합니다.
+3x3 그리드에 카드를 배치하는 '던전 카드' 장르의 모바일 게임입니다. 플레이어 카드를 십자 방향으로 이동하며 몬스터를 처치하고, 최종적으로 보스를 쓰러뜨리는 것이 목표입니다.
+  
+<img src="assets/taticsadventure.gif" alt="택틱스어드벤처" width="300">  
+
+- **무기**: 무기 카드를 주워 공격력을 올립니다. 사용 횟수가 정해져 있어서 아껴 쓰는 판단이 필요합니다.
+- **전투**: 몬스터 카드로 이동했을 때 몬스터의 체력이 플레이어의 공격력보다 높으면 그 차이만큼 플레이어의 체력이 줄어듭니다. 방어도가 있으면 방어도가 먼저 감소합니다.
+- **상자**: 열면 아이템, 몬스터, 코인, 무기, 유물 중 하나가 나옵니다.
+- **유물**: 이 게임의 핵심 요소입니다. 최대 체력이나 운 같은 단순 스탯 증가부터, 필드의 카드를 무작위로 섞거나 모든 카드에 데미지 1을 주는 즉발 효과, 공격 반사, 적 처치 시 가챠로 추가 보상을 주는 능력까지 다양합니다. 다른 유물과 함께 있으면 시너지가 나는 것도 있습니다. 추가적인 설명은 [링크](https://www.instagram.com/p/C3r5VcoNGhz/?utm_source=ig_web_copy_link&exln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)을 클릭하세요.
+
+**유물의 설계 의도**: 유물이 이롭기만 한 것은 아닙니다. 중독 디버프를 영구적으로 얻는 것처럼 부정적인 유물도 있지만, 잘 조합하면 오히려 높은 시너지를 냅니다. 예를 들어 중독 디버프를 얻는 유물을 먹었더라도, 중독 효과를 크게 늘리고 중독과 회복의 효과를 서로 바꿔주는 유물과 함께 쓰면 매번 체력이 회복되는 조합이 됩니다.
+
+**반응과 현재**: 아기자기하고 귀여운 디자인, 직관적인 UI, 좋은 아이디어로 SNS 팔로워들에게 높은 기대를 받았습니다. 다만 당시 졸업작품을 준비하느라 바빠 개발을 잠시 멈췄고, 이후 새로운 프로젝트 아이디어가 떠올라 묵혀두고 있지만 나중에 꼭 완성하고 싶은 게임입니다.
 
 </details>
 
