@@ -183,12 +183,6 @@ Team/Project | Entry Date | Leave Date | Role | Form
 유럽어문학과(프랑스어) 학생의 졸업작품으로, 기획과 디자인은 그 친구가, 개발은 제가 전담했습니다. 그 학과에서 게임을 개발하는 학생은 그 친구 한 명뿐이었고, 서로 다른 전공이 만나 학습 도구를 게임으로 풀어낸다는 제안이 재미있어 수락했습니다.
 
 </details>
-  
----
-
-### 🚧 아직 제작중입니다.
-
-업데이트 예정입니다.
 
 ### 1.5. Personal Projects
 - 총 단독 프로젝트 경험: 약 29개월
@@ -287,6 +281,12 @@ Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
 
 </details>
 
+---
+
+### 🚧 아직 제작중입니다.
+
+업데이트 예정입니다.  
+
 <details>
 <summary><b>Cooking Vampire</b> · 뱀서류 + 타이쿤 · PC · 2024-10 ~ 2025-04</summary>
 
@@ -351,110 +351,26 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
 ## 3. Beyond Development
 ### 3.1. Design
 #### 3.1.1. Pixel Art
-https://github.com/samchon/typia
 
-Typia 는 세상에서 가장 쉽고 빠른 Runtime Validator 라이브러리입니다. 
-
-사용자가 작성한 타입을 소스 코드 수준에서 분석하고, AOT (Ahead of Time) 컴파일을 통해 최적의 코드를 생성하기에, 단 한줄의 코드만으로 validation 을 행할 수 있수 있습니다. 그리고 그 속도는 무려 `class-validator` 대비 최대 15,000 배에 이릅니다.
-
-이외에도 JSON 및 Protobuf 관련 함수들을 지원하며, 이 또한 validation 때와 마찬가지로 단 한 줄의 코드만으로, 세상에서 가장 빠른 serialization/de-serialization 을 경험할 수 있습니다.
-
-![Typia Benchmark](https://github.com/samchon/typia/raw/master/benchmark/results/11th%20Gen%20Intel(R)%20Core(TM)%20i5-1135G7%20%40%202.40GHz/images/is.svg)
 
 #### 3.1.2. Hand-drawn Illustration
-https://github.com/samchon/nestia
 
-A set of helper libraries for NestJS.
-
-Nestia 는 먼저 `@nestia/core` 라 하여, 위 [typia](#311-typia) 를 랩핑함으로써, 종래의  `class-validator` 대비 15,000배 빠른 decorator 들을 지원해주는 라이브러리입니다. 또한, 10 배 빠른 (그리면서도 더 안전한) JSON 변환 속도를 지원합니다.
-
-그리고 `@nestia/sdk` 는 NestJS 로 작성한 백엔드 소스 코드를 컴파일 수준에사 분석, 클라이언트 개발자가 사용할 수 있는 SDK (Software Development Kit) 라이브러리를 자동으로 만들어주는 라이브러리입니다. 물론, Swagger Documents 를 생성하는 것 또한 가능하며, 종래의 `@nestjs/swagger` 대비 훨씬 안전하고 편리합니다.
-
-```typescript
-import { Controller } from "@nestjs/common";
-import { TypedBody, TypedRoute } from "@nestia/core";
-
-import type { IBbsArticle } from "@bbs-api/structures/IBbsArticle";
-
-@Controller("bbs/articles")
-export class BbsArticlesController {
-    /** 
-     * Store a new content.
-     * 
-     * @param inupt Content to store
-     * @returns Newly archived article
-     */
-    @TypedRoute.Post() // 10x faster and safer JSON.stringify()
-    public async store(
-        @TypedBody() input: IBbsArticle.IStore // super-fast validator
-    ): Promise<IBbsArticle>; 
-        // do not need DTO class definition, 
-        // just fine with interface
-}
-```
 
 
 #### 3.1.3. Effect Design
-https://github.com/samchon/reactia
 
-Reactia 는 TypeScrit Type 정보를 컴파일러 수준에서 분석, React 컴포넌트를 자동으로 생성하고 배치해주는 라이브러리입니다. 
-
-위 [typia](#311-typia) 라이브러리의 애드온 프로젝트로써, 현재는 개별 타입 수준의 자동화만 가능하지만, 곧 [nestia](#312-nestia) 를 확장함으로써, `NestJS` 로 제작한 백엔드 서버 전체에 대한 프론트 어플리케이션 개발 자동화도 지원할 예정입니다.
-
-![Reactia Example](https://user-images.githubusercontent.com/13158709/199074008-46b2dd67-02be-40b1-aa0f-74ac41f3e0a7.png)
 
 
 
 ### 3.2. Marketing
 #### 3.2.1. Instagram
-Hansung Timetable Simulator.
 
-  - Manual: [assets/manuals/hansung-timetable.pdf](assets/manuals/hansung-timetable.pdf)
-  - Language: Flex/Air (ActionScript 3.0)
-
-대학교에 입학하고 1 년을 다녀보니, 수강신청이 매번 고역임을 깨닫게 됩니다. 특히 제가 다닌 한성대의 경우에는 당시 강의계획 안내가 워낙 엉터리던지라, 수강신청을 하기 전에 미리 과목을 고르고 시간표를 먼저 작성해보는 게 매우 고된 일이었습니다. 
-
-때문에 1 학년 겨울방학이 오던 날, 저는 시간표를 미리 작성해볼 수 있는 프로그램 `hansung-timetable` 을 만들어 학생들에게 배포하게 됩니다. 이 프로그램을 통해 학생들은 시간표를 미리 작성해 볼 수 있었으며, 작성한 시간표를 프로그램 내에서 저장하거나 불러올 수 있었고, 시간표 그 자체를 워드나 엑셀 파일 등으로도 저장할 수 있었습니다.
-
-> 오로지 저만 사용한 기능으로, 수강신청을 자동으로 할 수 있는 기능이 있습니다.
-
-당시 이 프로그램을 만들고 학번을 기준으로 한 순 사용자만 3 천명에 달하였을 정도로, 학생들 사이에서 널리 쓰였습니다. 덕분에 어느 강의를 들어가던, 저를 알아보는 사람이 꼭 한 둘 이상씩은 있었습니다. 더불어 `hansung-timetable` 은 제가 개인 프로젝트로 만든 프로그램 중, 유일하게 라이브러리나 프레임워크가 아닌, 대중적인 프로그램이기도 했습니다.
 
 #### 3.2.2. YouTube
-Stock Simulation & Back Testing.
 
-  - Manual: [assets/manuals/samchon-simulation.pdf](assets/manuals/samchon-simulation.pdf)
-  - Demo Application: http://samchon.org/simulation
-  - Languages
-    - Flex (ActionScript 3.0)
-    - C++
-    - Php
-    - MySQL
-  - Programs
-    - Samchon Simulation Cloud (Demo)
-    - Samchon Simulation Data Miner
-    - Samchon Simulation Auto Trader
-
-`samchon-simulation` 은, 제가 대학교를 다니던 3 년 반을 모조리 불살라 만든, 주식 시뮬레이션 및 자동 매매에 관한 프로그램입니다. 주 기능은 시세와 재무정보 조회로부터 시작하여, Back Testing 이나 Montecarlo Simulation 등 주식 자동 매매를 위한 사전 시뮬레이션에 관한 것입니다. 만약 자세한 내용이 궁금하시다면, 첨부된 [매뉴얼](assets/manuals/samchon-simulation.pdf) 을 참고하시거나, [Demo Application](http://samchon.org/simulation) 에 접속하여 직접 사용해보시어도 좋습니다.
-
-더불어 `samchon-simulation` 은 워낙 전체 프로그램의 규모가 컸기에 (약 30 만 라인), 3년 반 동안 무수한 시행착오를 겪어야 했는데, 그 과정에서 숱한 리팩토링과 모듈화를 반복 숙달할 수 있었습니다. 또한 그 과정에서, 아키텍처 설계의 중요성을 그 누구보다 절실히 느껴, 아키텍처 설계에 입문하게 되는 계기가 되기도 했던 그런 프로젝트입니다.
-
-또한, `samchon-simulation` 은 주 알고리즘 및 연산은 C++ 로 만들었고, 프론트 어플리케이션은 Flex 로 만들었습니다. 게다가 데모 버전은 클라우드 형태로 만들었기에, C++ 과 Flex 간에 네트워크 통신을 통한 상호 연동이 필요습니다. 바로 이 때 만들었던 연동 모듈이, 후일 상용 프로젝트 [4.1.1. OraQ (Selene TR-1)](#411-oraq-selene-tr-1) 에서 쓰인 [3.1.1. Samchon Framework](#311-samchon-framework) 입니다.
 
 #### 3.2.3. Trailer Video
-Complicate Dicision Tree.
 
-  - Manual: [assets/manuals/nam-tree.pdf](assets/manuals/nam-tree.pdf)
-  - Demo Aplication: http://samchon.org/simulation/index.php?window=BackTesting
-  - Languages
-    - Flex (ActionScript 3.0)
-    - C++
-
-`nam-tree` 는 [3.2.2. Samchon Simulation](#322-samchon-simulation) 에서 복잡한 자동 매매 조건을 시각화하기 위하여 개발한 복합 의사결정 모형으로써, "세상에 존재하는 모든 논리조건을 표현할 수 있다" 를 모토로 만든 자작 모델입니다.
-
-특이사항으로는 계층 구조를 통해 AND 와 OR 및 filtered condition 등을 표현할 수 있으며, 함수 그 자체를 객체로 간주하여 조건문의 각 항에 삽입할 수 있습니다. 또한, exploration 이라 하여, 최적의 조건문을 스스로 찾아주는 기능 또한 있습니다.
-
-혹 자세한 내용이 궁금하시다면, 첨부된 [매뉴얼](assets/manuals/nam-tree.pdf) 을 참고해주십시오.
 
 #### 3.2.4. DCInside
 블라블라블라
