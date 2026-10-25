@@ -28,6 +28,8 @@ ExCel        | 2 년        | CSV 기반 게임 데이터베이스 설계 및 �
 ### [1.4. Team Projects](https://github.com/HongDaHyun/resume/blob/master/STORY.md#14-team-projects)
 - 총 협업 경험: 약 17개월
 
+※ 군 복무 중 스토어 정책 요건을 충족하지 못해, 출시했던 게임은 현재 모두 스토어에서 내려간 상태입니다.
+
 Team/Project | Entry Date | Leave Date | Role | Form
 --------|------------|------------|------|-------
 [RudenSmith](링크) | 2022-09 | 2023-01 | 개발/서브 디자인 | 개발 중 해체
@@ -39,6 +41,8 @@ Team/Project | Entry Date | Leave Date | Role | Form
 ### [1.5. Personal Projects](https://github.com/HongDaHyun/resume/blob/master/STORY.md#15-personal-projects)
 - 총 단독 프로젝트 경험: 약 29개월
 
+※ 군 복무 중 스토어 정책 요건을 충족하지 못해, 출시했던 게임은 현재 모두 스토어에서 내려간 상태입니다.
+
 Project | Start Date | Finish Date | Platform | Genre | Status
 --------|------------|------------|-------|-----------------|----
 군 비기 "침상 점프" | -          | 2022-03    | Android | 클리커(유명 유튜버 팬게임) | 출시완료
@@ -47,7 +51,7 @@ RTD | 2023-02 | 2024-12 | Android | 랜타디 + 로그라이크 | 출시완료
 KingsUp | 2023-07 | 2023-08 | Android | 플랫폼 게임 | 출시완료
 ChessDodge | 2023-08 | 2024-04 | Android | 체스판 위 턴제 피하기 | 개발중단
 Tactics Adventure | 2024-01 | 2024-03 | Android | 턴제 전략 카드 퍼즐 게임 | 보류
-Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
+Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 요리 경영 시뮬레이션 | 보류
 
 
 ## [2. Introduction](https://github.com/HongDaHyun/resume/blob/master/STORY.md#2-introduction)
