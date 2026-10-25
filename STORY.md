@@ -23,7 +23,6 @@
     + [3.1. Design](#31-design)
       - [3.1.1. Pixel Art](#311-pixel-art)
       - [3.1.2. Hand-drawn Illustration](#312-hand-drawn-illustration)
-      - [3.1.3. Effect Design](#313-effect-design)
     + [3.2. Marketing](#32-marketing)
       - [3.2.1. Instagram](#321-instagram)
       - [3.2.2. YouTube](#322-youtube)
@@ -297,7 +296,7 @@ Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 요리 경영 시뮬레�
 
 **플랫폼 전환**: 처음에는 모바일 게임으로 만들려 했지만, 게임 볼륨이 커지고 기획이 확장되면서 Steam 플랫폼으로 방향을 전환했습니다.
 
-**현재**: 낮(뱀서류) 파트는 기능 구현을 거의 마쳤고, 밤(요리 경영) 파트는 식당 구현과 일부 요리 방식까지 만든 상태에서, 군 입대로 개발을 잠시 보류했습니다. 또한 군 복무 중 원인을 알 수 없는 DMCA 신고를 받아 GitHub 저장소가 내려간 상태이며, 전역 후 바로 해결할 예정입니다.
+**현재**: 낮(뱀서류) 파트는 기능 구현을 거의 마쳤고, 밤(요리 경영) 파트는 식당 구현과 일부 요리 방식까지 만든 상태에서, 군 입대로 개발을 잠시 보류했습니다. 또한 군 복무 중 이 저장소가 DMCA 신고로 내려갔습니다. 구매해서 사용한 올인원 에셋이 공개 저장소에 그대로 포함되어 있어 에셋 제작자가 신고한 것으로, 라이선스상 원본 에셋을 공개해서는 안 된다는 점을 놓친 제 불찰이었습니다. 전역 후 바로 해당 에셋을 제외하고 저장소를 정리해 복구할 예정이며, 이후로는 유료 에셋을 저장소에서 분리해 관리할 예정입니다.
 
 <a href="https://www.instagram.com/reel/DFBzbyihv-b/?utm_source=ig_web_copy_link&exln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==">
   <img src="assets/cookingvampire.png" alt="Cooking-Vampire 인스타그램" width="300">
@@ -374,15 +373,28 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
 - **작업 방식**: 대부분 새로운 디자인을 직접 그립니다. 또 itch.io에서 Sunny Valley Studio의 그래픽 에셋을 구매해, 샘플을 수정하여 저만의 새로운 캐릭터로 만들어본 경험도 있습니다.
 - **제작 범위**: UI 패널, 아이콘, 버튼은 물론 캐릭터 애니메이션, 무기, 이펙트까지 게임에 들어가는 모든 디자인을 직접 만들 수 있습니다.
 
-아직 더 배울 점은 있지만, Aseprite로 완성도 있는 도트 디자인을 만들어낼 수 있는 수준입니다.
+아직 더 배울 점은 있지만, Aseprite로 완성도 있는 도트 디자인을 만들어낼 수 있는 수준입니다.  
 
+<img src="assets/ninja.gif" width="240" alt="닌자 캐릭터 애니메이션">
+<img src="assets/sheep.gif" width="240" alt="양 캐릭터 애니메이션">
+<img src="assets/ghostCard.png" width="320" alt="유령 카드">
+<img src="assets/mushroomCard.png" width="320" alt="버섯 카드">
+<img src="assets/store.png" width="720" alt="식당 이미지">
+<img src="assets/uidesign.png" width="1000" alt="UI 디자인">
 
-#### 3.1.2. Hand-drawn Illustration
+<a href="https://www.instagram.com/p/Cyk4ZdrCjma/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==">▶ 인스타그램에서 도트 작업물 보기</a>
 
+※ 작업물은 인스타그램에 꾸준히 기록해두었습니다. 군 복무 중이라 원본 파일 대신 해당 게시물로 연결합니다.
 
+#### 3.1.3. Hand-drawn Illustration
+처음에는 삼성노트로 그림을 그리다가, 점점 익숙해지면서 메디방(MediBang)으로 옮겨 그리기 시작했습니다.
 
-#### 3.1.3. Effect Design
+- **인스타툰**: 마케팅을 할 때 개발일지를 인스타툰으로 그려 올리면서 메디방을 가장 많이 사용했습니다.
+- **게임 디자인**: 손그림 일러스트 스타일의 게임을 만들 때는 이펙트, 캐릭터, UI, 맵 등 다양한 요소를 직접 그려 게임에 넣었습니다.
 
+<a href="https://www.instagram.com/rudensmith/">▶ 인스타그램에서 손그림 작업물 보기</a>
+
+손그림 작업물은 인스타그램 링크에서 가장 잘 확인하실 수 있습니다.
 
 
 
