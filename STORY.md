@@ -92,8 +92,10 @@ Team/Project | Entry Date | Leave Date | Role | Form
 <summary>자세히 보기</summary>
 
 **[애니제라블](https://github.com/HongDaHyun/ProjectAI)**: 뱀서류의 플레이어와 AI의 역할을 뒤바꾼 전략 게임입니다. 기존 뱀서류에서는 플레이어가 몰려오는 몬스터를 피해 다니지만, 애니제라블에서는 유저가 다양한 몬스터를 소환하고 힐, 메테오 같은 스킬을 활용해 **제한시간 안에 플레이어 캐릭터의 체력을 0으로 만들면** 승리합니다.
-![애니제라블(스케치)](assets/aniserables_sketch.jpg)
-![애니제라블](assets/aniserables.jpg)
+
+<img src="assets/aniserables_sketch.jpg" alt="애니제라블(스케치)" width="300">
+<img src="assets/aniserables.png" alt="애니제라블" width="300">
+
 - **플레이어 AI**: 기존 뱀서류의 플레이어 역할은 코드로 구현해, 실제 유저가 조작하는 것처럼 움직이게 했습니다. 이 AI도 일반 뱀서류처럼 특성을 찍고 무기를 업그레이드합니다.
 - **전략성**: AI의 무기 업그레이드와 특성 선택에 맞춰, 그에 대처할 수 있는 몬스터를 여러 가지로 조합하는 것이 핵심입니다.
 - **성장 요소**: 유저도 몬스터를 조합하거나 업그레이드할 수 있으며, 로그라이트 형식으로 매판 새로운 재미를 제공합니다.
@@ -110,7 +112,8 @@ Team/Project | Entry Date | Leave Date | Role | Form
 <summary>자세히 보기</summary>
 
 **[HIM](https://github.com/HongDaHyun/HIM)**: '하이아임'의 줄임말로, 옛날 미니홈피처럼 자기 캐릭터를 꾸미고 성격과 취미를 보여주는 SNS 성향의 플랫폼입니다. 게임이 아닌 서비스였고, 인스타그램 이용층을 타겟으로 했습니다.
-![하이아임](링크)
+
+![사진첨부예정](assets/하이아임이미지)
 
 - **컨셉**: 나만의 캐릭터를 중심으로 자신을 표현하고 공유하는 공간
 - **BM**: 캐릭터 커스터마이징 기능(옷, 액세서리 등)을 수익 모델로 설계
@@ -129,7 +132,8 @@ Team/Project | Entry Date | Leave Date | Role | Form
 코코네스쿨에서 알게 된 지인이 만든 스타트업으로, 블록체인과 웹3 환경에서 탈중앙화 애플리케이션을 만들던 회사입니다. 저는 초기 멤버로 합류해 게임 개발을 맡았고, 총 2개의 게임을 제작했습니다.
 
 - **[슬라임팡팡](https://github.com/cookie-labs/SlimePangPang)**: 안드로이드용으로 만들었던 게임을 웹게임으로 추가 빌드하고, 텔레그램 API를 연동해 가상화폐와 NFT 디자인 요소를 넣었습니다.
-  
+
+  ▶ 이미지 클릭 시 영상 다운로드  
   <a href="assets/slimepangpang_trailer.mp4">
    <img src="assets/slimepangpang.jpg" alt="슬라임 팡팡 동영상" width="300">
   </a>
@@ -154,6 +158,12 @@ Team/Project | Entry Date | Leave Date | Role | Form
 
 **[TurtleRun](https://github.com/gachon-gamemakers)**: 레이싱 게임에 AI 모델을 접목한 게임입니다. 플레이어가 직접 운전하는 대신, 학습된 AI 모델이 자율주행으로 달리고 플레이어는 어떤 모델을 고르고 키울지 전략을 세웁니다.
 
+<img src="assets/turtlerun_trailer_1.gif" alt="터틀런이미지1" width="200">
+<img src="assets/turtlerun_minigame_1.gif" alt="터틀런미니게임1" width="200">
+<img src="assets/turtlerun_minigame_2.gif" alt="터틀런미니게임2" width="200">
+<img src="assets/turtlerun_minigame_3.gif" alt="터틀런미니게임3" width="200">
+
+
 - **재화 획득**: 미니게임을 플레이해 재화를 모읍니다.
 - **모델 구매·업그레이드**: 재화로 학습된 AI 모델을 구매하고 업그레이드합니다.
 - **모델마다 다른 성향**: 이곳저곳 부딪히는 AI, 커브에서 브레이크를 세게 밟는 AI, 항상 액셀만 밟는 AI처럼 성향이 제각각입니다.
@@ -161,9 +171,14 @@ Team/Project | Entry Date | Leave Date | Role | Form
 
 저는 메인화면과 미니게임 개발, 팀원 코드 통합을 맡았고, 아트는 전부 혼자 제작했습니다. AI 모델 학습은 팀원이 주로 담당했고, 저는 학습된 모델이 게임 안에서 동작하도록 통합하는 작업에 참여했습니다. 졸업작품 평가단에게 좋은 평가를 받았고, 특히 디자인 부문에서 높은 평가를 받았습니다.
 
-<a href="assets/turtlerun_trailer.mp4">
- <img src="assets/터틀런썸네일" alt="사진첨부예정" width="300">
-</a>
+<div>
+  <img src="assets/ai_1.png" alt="ai1" width="300">
+  <img src="assets/ai_2.png" alt="ai2" width="300">
+  <img src="assets/ai_4.png" alt="ai4" width="200">
+</div>
+<div>
+  <img src="assets/ai_3.png" alt="ai3" width="800">
+</div>
 
 </details>
 
@@ -179,7 +194,10 @@ Team/Project | Entry Date | Leave Date | Role | Form
 - **3가지 모드**: 명사가 없는 일반 수박게임 모드, 남성명사는 파란색·여성명사는 핑크색으로 구분해 보여주는 초보자 모드, 색 표시 없이 직접 구분해야 하는 고급자 모드로 학습 수준에 따라 난이도를 나눴습니다.
 - **단어 관리**: 단어 목록을 CSV 파일로 관리해, 프랑스어 전공 팀원이 만든 데이터를 코드 수정 없이 게임에 반영할 수 있게 했습니다.
 - **점수 경쟁**: 구글 클라우드 서비스를 이용해 플레이어 간 점수 경쟁 기능을 구현했습니다.
-  ![사진첨부예정](assets/블랑제리이미지)
+
+  ▶ 이미지 클릭 시 블랑제리 소개 게시물로 이동  
+  <a href="https://www.instagram.com/p/DDraeqxSLCh/?img_index=1">
+    <img src="assets/boulangerie.png" alt="블랑제리 인스타그램" width="300">
 
 유럽어문학과(프랑스어) 학생의 졸업작품으로, 기획과 디자인은 그 친구가, 개발은 제가 전담했습니다. 그 학과에서 게임을 개발하는 학생은 그 친구 한 명뿐이었고, 서로 다른 전공이 만나 학습 도구를 게임으로 풀어낸다는 제안이 재미있어 수락했습니다.
 
@@ -258,8 +276,6 @@ Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 요리 경영 시뮬레�
 
 ▶ [클릭](https://www.instagram.com/p/Cv_q3epyyS_/?xtok=OHY2c3NmaGnyajE0)하면 인스타그램 기획 게시물으로 이동합니다.
 
-<br>▶ 클릭하면 인스타그램으로 이동합니다.
-
 </details>
 
 <details>
@@ -298,10 +314,10 @@ Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 요리 경영 시뮬레�
 
 **현재**: 낮(뱀서류) 파트는 기능 구현을 거의 마쳤고, 밤(요리 경영) 파트는 식당 구현과 일부 요리 방식까지 만든 상태에서, 군 입대로 개발을 잠시 보류했습니다. 또한 군 복무 중 이 저장소가 DMCA 신고로 내려갔습니다. 구매해서 사용한 올인원 에셋이 공개 저장소에 그대로 포함되어 있어 에셋 제작자가 신고한 것으로, 라이선스상 원본 에셋을 공개해서는 안 된다는 점을 놓친 제 불찰이었습니다. 전역 후 바로 해당 에셋을 제외하고 저장소를 정리해 복구할 예정이며, 이후로는 유료 에셋을 저장소에서 분리해 관리할 예정입니다.
 
+▶ 이미지 클릭 시 소개 영상 링크로 이동  
 <a href="https://www.instagram.com/reel/DFBzbyihv-b/?utm_source=ig_web_copy_link&exln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==">
   <img src="assets/cookingvampire.png" alt="Cooking-Vampire 인스타그램" width="300">
 </a>
-<br>▶ 저장소 대신 인스타그램에서 개발 자료를 확인하실 수 있습니다.
 
 </details>
 
@@ -351,6 +367,7 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
 현재 공군 전산병으로 복무 중이며, 2027년 1월 전역을 앞두고 있습니다.
 
 복무 기간을 그냥 흘려보내지 않았습니다. 군 내 SMS(Service Management System)를 개발했고, 이 프로그램은 현재 전 비행단에서 활용되고 있습니다. 또한 정보통신경연대회에서 3스타(참모총장상)를 수상했습니다.
+  
 ![사진첨부예정](assets/참모총장상이미지)
 ![사진첨부예정](assets/SMS개발관련문서)
 
@@ -375,12 +392,14 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
 
 아직 더 배울 점은 있지만, Aseprite로 완성도 있는 도트 디자인을 만들어낼 수 있는 수준입니다.  
 
-<img src="assets/ninja.gif" width="240" alt="닌자 캐릭터 애니메이션">
-<img src="assets/sheep.gif" width="240" alt="양 캐릭터 애니메이션">
-<img src="assets/ghostCard.png" width="320" alt="유령 카드">
-<img src="assets/mushroomCard.png" width="320" alt="버섯 카드">
-<img src="assets/store.png" width="720" alt="식당 이미지">
-<img src="assets/uidesign.png" width="1000" alt="UI 디자인">
+<div>
+  <img src="assets/ninja.gif" width="240" alt="닌자 캐릭터 애니메이션">
+  <img src="assets/sheep.gif" width="240" alt="양 캐릭터 애니메이션">
+  <img src="assets/ghostCard.png" width="240" alt="유령 카드">
+  <img src="assets/mushroomCard.png" width="240" alt="버섯 카드">
+  <img src="assets/store.png" width="240" alt="식당 이미지">
+  <img src="assets/uidesign.png" width="240" alt="UI 디자인">
+</div>
 
 <a href="https://www.instagram.com/p/Cyk4ZdrCjma/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==">▶ 인스타그램에서 도트 작업물 보기</a>
 
@@ -396,26 +415,94 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
 
 손그림 작업물은 인스타그램 링크에서 가장 잘 확인하실 수 있습니다.
 
-
-
 ### 3.2. Marketing
 #### 3.2.1. Instagram
+인스타그램을 주력 마케팅 채널로 선정하고, Meta Business 계정을 활용해 계정 운영과 콘텐츠 관리를 진행했습니다. 인스타툰, 팔로워 참여형 콘텐츠, 릴스(Reels), 스토리(Stories) 등 다양한 형식의 게시물을 제작해 게임을 홍보하고 팔로워와의 소통을 유도했습니다.
 
+그 결과, **팔로워 200명 이상을 확보했으며, 좋아요 100개 이상을 기록한 게시물**도 달성했습니다. 다양한 콘텐츠 형식을 시도하며 게임의 매력을 전달하는 동시에, 유저의 관심과 참여를 유도하는 콘텐츠의 중요성을 경험했습니다.
+
+현재는 군 복무로 인해 게시물 업로드를 중단한 상태지만, 전역 후 계정을 다시 활성화할 계획입니다. 기존에 활용했던 인스타툰의 비중을 줄이고, 게임 플레이와 핵심 재미 요소를 보다 직관적으로 전달할 수 있는 릴스 중심으로 콘텐츠 전략을 개편하고자 합니다. 이를 통해 게임의 매력을 효과적으로 전달하고, 더 많은 잠재 유저의 유입을 유도하는 것을 목표로 하고 있습니다.
+  
+▶ 이미지 클릭 시 인스타그램으로 이동합니다.  
+<a href="https://www.instagram.com/rudensmith/">
+  <img src="assets/instagram.png" alt="인스타그램" width="300">
+</a>
 
 #### 3.2.2. YouTube
+유튜브에서는 게임 플레이 영상을 숏츠(Shorts) 형식으로 제작해 업로드했습니다. 개발과 다른 마케팅 활동을 병행하고 있었기에 주력 마케팅 채널은 아니었고, 상대적으로 많은 시간을 투자하기도 어려웠습니다.
 
+그럼에도 가장 높은 반응을 얻은 영상은 **조회수 9,500회 이상, 좋아요 80개 이상**을 기록했습니다. 예상보다 높은 반응에 놀랐던 기억이 있으며, 이를 통해 짧은 영상만으로도 게임의 재미와 특징을 효과적으로 전달할 수 있다는 가능성을 확인했습니다.
+
+비록 집중적으로 운영한 채널은 아니었지만, 게임 플레이를 짧고 직관적인 콘텐츠로 전달하는 방식이 잠재 유저의 관심을 끌 수 있음을 경험했습니다.
+
+<a href="https://www.youtube.com/@RudenSmith">▶ 유튜브로 바로가기</a>
 
 #### 3.2.3. Trailer Video
+게임의 주요 특징과 매력을 효과적으로 전달하기 위해 트레일러 영상을 제작했습니다. 게임 소개와 주요 플레이 장면, 하이라이트 등을 중심으로 영상을 구성해 게임을 처음 접하는 유저도 핵심 재미 요소를 직관적으로 이해할 수 있도록 했습니다.
 
+영상 제작 과정에서는 기초적인 영상 편집 기술을 직접 학습하고 적용했습니다. 이를 통해 게임 개발뿐만 아니라 완성된 게임을 시각적인 콘텐츠로 가공하고, 잠재 유저에게 매력적으로 전달하는 방법도 익힐 수 있었습니다.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Aniserables</strong>
+    </td>
+    <td align="center" width="33%">
+      <strong>Turtle Run</strong>
+    </td>
+    <td align="center" width="33%">
+      <strong>Cooking Vampire</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      ="assets/aniserbles_trailer.mp4">
+        <img src="assets/aniserables.png" alt="Aniserables 트레일러" width="250">
+      </a>
+    </td>
+    <td align="center">
+      ="assets/turtlerun_trailer.mp4">
+        <img src="assets/turtlerun_trailer_2.gif" alt="Turtle Run 트레일러" width="250">
+      </a>
+    </td>
+    <td align="center">
+      ="https://www.instagram.com/reel/DFBzbyihv-b/">
+        <img src="assets/cookingvampire.png" alt="Cooking Vampire 트레일러" width="250">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📥 영상 다운로드</td>
+    <td align="center">📥 영상 다운로드</td>
+    <td align="center">▶️ 인스타그램에서 보기</td>
+  </tr>
+</table>
 
 #### 3.2.4. DCInside
-블라블라블라
+초기에는 디시인사이드 인디게임개발 마이너 갤러리에 개발일지와 게임 스크린샷을 게시하며 프로젝트를 소개했습니다. 총 9개의 게시물을 작성했으며, 그중 4개가 개념글에 선정되는 등 커뮤니티 내에서 긍정적인 반응을 얻었습니다.
 
+다만, 개발자 중심의 커뮤니티 특성상 실제 게임을 플레이할 잠재 유저를 확보하는 데에는 한계가 있다고 판단했습니다. 이에 여러 마케팅 채널의 특성과 활용 목적을 고려해 디시인사이드에서의 게시물 업로드를 중단하고, 보다 많은 잠재 유저와 소통할 수 있는 인스타그램에 마케팅 역량을 집중했습니다.
+
+이 경험을 통해 단순히 게시물을 여러 플랫폼에 배포하는 것보다, **채널별 이용자 특성과 마케팅 목적을 고려해 적합한 플랫폼을 선택하고 운영 자원을 집중하는 것이 중요하다**는 점을 배웠습니다.
+
+![디시인사이드](assets/dcinside.png)
 
 
 ### 3.3. Planning
-#### 3.3.1. 애니제라블
-블라블라
+스타트업 초기 멤버로 활동하고 여러 게임을 개발 및 출시하며 기획의 중요성을 체감했습니다. 초기에는 아이디어 중심으로 기획을 진행했지만, 프로젝트 경험이 쌓이면서 체계적인 기획의 필요성을 깨달았습니다.
 
-#### 3.3.2. RTD
-블라블라
+이후 실제 기업의 게임 기획서를 참고하며 문서 구성과 작성 방식을 익히고, 이를 프로젝트에 적용하기 위해 노력했습니다. 게임의 핵심 콘셉트와 주요 기능을 구체적으로 정리했으며, 팀 프로젝트뿐만 아니라 개인 개발에서도 기획서 작성을 꾸준히 이어가며 체계적인 개발 과정을 갖추고자 했습니다.
+
+#### 3.3.1. 애니제라블
+※ 관련 파일은 개인 노트북에 보관 중이며, 현재 군 복무로 인해 업로드가 어려운 상황입니다. 추후 휴가 중 업로드할 예정입니다.
+
+#### 3.3.2. 알티디(역기획서)
+▶ 이미지 클릭 시 문서 다운로드  
+<a href="assets/RTD_RED.pdf">
+  <img src="assets/RTD_RED_page.jpg" width="300" alt="알티디 역기획서">
+</a>
+
+#### 3.3.3. 택틱스 어드벤처
+▶ 이미지 클릭 시 문서 다운로드  
+<a href="assets/RTD_RED.pdf">
+  <img src="assets/RTD_RED_page.jpg" width="300" alt="알티디 역기획서">
+</a>
