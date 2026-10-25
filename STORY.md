@@ -16,8 +16,8 @@
     + [2.2. Self Improvement](#22-self-improvement)
     + [2.3. Solo Indie Development](#23-solo-indie-development)
     + [2.4. Documentation](#24-documentation)
-    + [2.5. Performance & Code Quality](#25-performance-&-code-quality)
-    + [2.6. Assets & Tools](#26-assets-&-tools)
+    + [2.5. Performance and Code Quality](#25-performance-and-code-quality)
+    + [2.6. Assets and Tools](#26-assets-and-tools)
     + [2.7. Recent Update](#27-recent-update)
   * [**3. Beyond Development**](#3-beyond-development)
     + [3.1. Design](#31-design)
@@ -333,14 +333,14 @@ Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 요리 경영 시뮬레�
 
 이 습관은 팀 프로젝트에서도 좋게 작용했습니다. 작업 내용과 진행 상황을 공유할 수 있는 형태로 정리해두다 보니, 역할을 나누고 맞춰가는 분업이 어색하지 않았습니다.
 
-### 2.5. Performance & Code Quality
+### 2.5. Performance and Code Quality
 저는 개발할 때 최적화를 매우 중요하게 여기며, Unity Profiler, Memory Profiler, Frame Debugger로 병목을 먼저 측정한 뒤 개선합니다.
 
 - **메모리·CPU**: 오브젝트 풀링과 캐싱으로 GC를 최소화하고, LINQ·박싱·문자열 연산을 지양합니다. Update문 사용을 줄여 코루틴과 이벤트 기반으로 설계하고, 릴리스 빌드에서는 Debug.Log를 제거합니다. 물리 연산은 Layer Collision Matrix를 정리하고 불필요한 Collider·Rigidbody를 없애 부하를 줄입니다.
 - **디자인·그래픽**: 스프라이트 아틀라스로 드로우콜을 줄이고, 같은 색은 하나로 통일하며 스프라이트 크기를 16px, 32px 등으로 맞춥니다. 텍스처 압축과 임포트 설정(Max Size, Mipmap, Read/Write)을 조정하고, 컬링, 오버드로우 줄이기, 셰이더 경량화, 파티클 최적화를 적용합니다. UI는 Canvas를 분리하고 불필요한 Raycast Target을 꺼서 관리합니다.
 - **사운드·빌드**: 효과음과 BGM의 로드 방식·압축 포맷을 구분하고, Addressables와 비동기 로딩으로 로딩 부담을 줄입니다. 빌드 최적화 설정을 적용하며, 수직동기화(VSync) 기능 구현과 프레임레이트 캡으로 모바일 발열과 배터리를 관리합니다.
 
-### 2.6. Assets & Tools
+### 2.6. Assets and Tools
 저는 게임 한 편을 만들 때 약 20~30개의 에셋을 활용합니다. 직접 만들 필요가 없는 기능은 검증된 에셋으로 빠르게 해결하고, 그 시간을 게임 고유의 재미를 만드는 데 씁니다.
 iPools로 오브젝트 풀링을 구성하고, DOTween으로 UI 애니메이션을 제작하며, Odin Inspector로 인스펙터의 가독성을 높여 레벨 테스트가 편한 형태로 구성합니다.
 특히 웨이브와 스탯을 즉시 바꾸거나 몬스터와 아이템을 바로 소환하는 기능을 자주 구현해, 에디터 안에서 레벨과 밸런스를 검증합니다.
@@ -360,6 +360,14 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
 ### 🚧 아직 제작중입니다.
 ## 3. Beyond Development
 ### 3.1. Design
+픽셀아트, 손그림, 이펙트 디자인까지 세 가지 분야를 직접 디자인할 수 있습니다. 학교나 학원에서 배운 적 없이 모두 독학으로 익혔고, 유튜브 영상과 블로그, 레딧의 팁을 참고하며 직접 그려보고 시행착오를 거쳐 터득했습니다.
+
+[Pixel Art](#311-pixel-art) | Aseprite | 캐릭터, 배경, 아이템 등 도트 그래픽 및 애니메이션 제작
+[Hand-drawn Illustration](#312-hand-drawn-illustration) | MediBang Paint | 캐릭터 일러스트 및 애니메이션 손그림 제작
+[Effect Design](#313-effect-design) | All | 스킬, 타격, 연출용 이펙트 스프라이트 제작
+
+디자인과 개발을 모두 하기 때문에, 둘 사이의 최적화도 직접 해결할 수 있습니다. 스프라이트의 크기와 색을 게임 최적화에 맞춰 제작하고, 유니티 애니메이션에 대한 이해를 바탕으로 애니메이션도 최적화하며, UI 패널도 상황에 맞춰 수정하거나 새로 제작합니다.
+
 #### 3.1.1. Pixel Art
 
 
