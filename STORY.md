@@ -76,6 +76,8 @@ ExCel        | 2 년        | CSV 기반 게임 데이터베이스 설계 및 �
 
 - 총 협업 경험: 약 17개월
 
+※ 군 복무 중 스토어 정책 요건을 충족하지 못해, 출시했던 게임은 현재 모두 스토어에서 내려간 상태입니다.
+
 Team/Project | Entry Date | Leave Date | Role | Form
 --------|------------|------------|------|-------
 [RudenSmith](#141-rudensmith) | 2022-09 | 2023-01 | 개발/서브 디자인 | 개발 중 해체
@@ -197,7 +199,7 @@ RTD | 2023-02 | 2024-12 | Android | 랜타디 + 로그라이크 | 출시완료
 KingsUp | 2023-07 | 2023-08 | Android | 플랫폼 게임 | 출시완료
 ChessDodge | 2023-08 | 2024-04 | Android | 체스판 위 턴제 피하기 | 개발중단
 Tactics Adventure | 2024-01 | 2024-03 | Android | 턴제 전략 카드 퍼즐 게임 | 보류
-Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
+Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 요리 경영 시뮬레이션 | 보류
 
 <details>
 <summary><b>군 비기 "침상 점프"</b> · 클리커 · Android · 2022-03</summary>
@@ -262,7 +264,7 @@ Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
 </details>
 
 <details>
-<summary><b>Tactics-Adventure</b> · 턴제 전략 카드 퍼즐 · Android · 2024-01 ~ 2024-03</summary>
+<summary><b>Tactics Adventure</b> · 턴제 전략 카드 퍼즐 · Android · 2024-01 ~ 2024-03</summary>
 
 <br>
 
@@ -282,11 +284,25 @@ Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 타이쿤 | 개발중
 </details>
 
 <details>
-<summary><b>Cooking Vampire</b> · 뱀서류 + 타이쿤 · PC · 2024-10 ~ 2025-04</summary>
+<summary><b>Cooking Vampire</b> · 뱀서류 + 요리 경영 시뮬레이션 · PC(Steam) · 2024-10 ~ 2025-04</summary>
 
 <br>
 
-설명을 여기에 작성합니다.
+낮과 밤이 나뉘는 게임으로, 낮에는 뱀파이어 서바이벌류, 밤에는 요리 경영 시뮬레이션을 즐기는 하이브리드 게임입니다.
+
+- **낮 (뱀서류)**: 모험가가 되어 몰려오는 몬스터를 처치하며 요리 재료를 구합니다. 레벨업하면 스탯이 오르고 다양한 아이템을 얻습니다.
+- **밤 (요리 경영)**: 셰프가 되어 낮에 구한 재료로 요리를 만들어 손님에게 대접합니다. 예를 들어 고블린을 잡아 얻은 고블린 귀로 고블린 귀 스테이크를 만들 수 있습니다.
+- **성장 루프**: 음식을 팔아 번 돈으로 더 높은 던전을 탐험하고, 좋은 재료를 얻기 위해 모험가의 장비를 강화하며, 더 많은 수익을 위해 레스토랑의 등급과 편의시설을 업그레이드합니다.
+- **콘텐츠**: 전사, 궁수, 도적, 마법사 4종의 캐릭터와 고블린, 슬라임, 뱀파이어, 스켈레톤 등 전형적인 판타지 몬스터가 등장합니다. 던전마다 고유한 보스 몬스터가 있고, 다양한 퀘스트와 NPC도 준비했습니다.
+
+**플랫폼 전환**: 처음에는 모바일 게임으로 만들려 했지만, 게임 볼륨이 커지고 기획이 확장되면서 Steam 플랫폼으로 방향을 전환했습니다.
+
+**현재**: 낮(뱀서류) 파트는 기능 구현을 거의 마쳤고, 밤(요리 경영) 파트는 식당 구현과 일부 요리 방식까지 만든 상태에서, 군 입대로 개발을 잠시 보류했습니다. 또한 군 복무 중 원인을 알 수 없는 DMCA 신고를 받아 GitHub 저장소가 내려간 상태이며, 전역 후 바로 해결할 예정입니다.
+
+<a href="https://www.instagram.com/reel/DFBzbyihv-b/?utm_source=ig_web_copy_link&exln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==">
+  <img src="assets/cookingvampire.png" alt="Cooking-Vampire 인스타그램" width="300">
+</a>
+<br>▶ 저장소 대신 인스타그램에서 개발 자료를 확인하실 수 있습니다.
 
 </details>
 
