@@ -89,7 +89,7 @@ Category | Tool | Description
 **[Instagram](https://github.com/HongDaHyun/resume/blob/master/STORY.md#321-instagram)**
 : 인게임 테스트 플레이 릴스와, 개발 과정을 그린 인스타툰을 꾸준히 게시하며 메인 채널로 운영했습니다.
 
-**[YouTube]([링크](https://github.com/HongDaHyun/resume/blob/master/STORY.md#322-youtube)**
+**[YouTube](https://github.com/HongDaHyun/resume/blob/master/STORY.md#322-youtube)**
 : 게임 홍보용 숏폼 영상을 제작해 업로드했습니다.
 
 **[Trailer Video](https://github.com/HongDaHyun/resume/blob/master/STORY.md#323-trailer-video)**
