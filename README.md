@@ -6,7 +6,7 @@
 ### [1.1. Profile](https://github.com/HongDaHyun/resume/blob/master/STORY.md#11-profile)
 이름: 홍다현
 
-  - 생년월일: 2002-04-30
+  - 이메일: hdh36115@gmail.com
   - 연락처: 010-9271-5476
   - Github: https://github.com/HongDaHyun
 
@@ -21,13 +21,14 @@
 Skill        | Experiences | Note
 -------------|-------------|-----------------------------------
 C#           | 5 년        | Unity 엔진 최적화에 특화된 C# 활용 — 오브젝트 풀링, GC 최소화, 커스텀 에디터 툴 등
-Unity        | 5 년        | 엔진 내부 구조에 대한 깊은 이해를 바탕으로 에셋 파이프라인 구축 및 최적화
+Unity        | 5 년        | Unity 에셋 파이프라인을 구성하고, 프로젝트에 필요한 최적화 작업을 수행
 Aseprite     | 5 년        | 도트 그래픽 디자인 전문 — 캐릭터 애니메이션 및 이펙트 스프라이트 제작 가능
-ExCel        | 2 년        | CSV 기반 게임 데이터베이스 설계 및 구축, 기획-개발 간 데이터 파이프라인 정립
+Excel        | 2 년        | CSV 기반 게임 데이터베이스 설계 및 구축, 기획-개발 간 데이터 파이프라인 정립
 
 ### [1.4. Team Projects](https://github.com/HongDaHyun/resume/blob/master/STORY.md#14-team-projects)
 - 총 협업 경험: 약 17개월
 
+※ 프로젝트 기간은 GitHub 저장소의 커밋 기록을 기준으로 산정했습니다.
 ※ 군 복무 중 스토어 정책 요건을 충족하지 못해, 출시했던 게임은 현재 모두 스토어에서 내려간 상태입니다.
 
 Team/Project | Entry Date | Leave Date | Role | Form
@@ -41,6 +42,7 @@ Team/Project | Entry Date | Leave Date | Role | Form
 ### [1.5. Personal Projects](https://github.com/HongDaHyun/resume/blob/master/STORY.md#15-personal-projects)
 - 총 단독 프로젝트 경험: 약 29개월
 
+※ 프로젝트 기간은 GitHub 저장소의 커밋 기록을 기준으로 산정했습니다.
 ※ 군 복무 중 스토어 정책 요건을 충족하지 못해, 출시했던 게임은 현재 모두 스토어에서 내려간 상태입니다.
 
 Project | Start Date | Finish Date | Platform | Genre | Status
@@ -56,7 +58,7 @@ Cooking Vampire | 2024-10 | 2025-04 | PC | 뱀서류 + 요리 경영 시뮬레�
 
 ## [2. Introduction](https://github.com/HongDaHyun/resume/blob/master/STORY.md#2-introduction)
 ### [2.1. Where It Began](https://github.com/HongDaHyun/resume/blob/master/STORY.md#21-where-it-began)
-2015년 코드를 처음으로 접하고, 올해 26살이 되기까지 12년간 프로그래밍을 놓아본 적이 없습니다.
+15살에 C++로 프로그래밍을 시작한 뒤, 게임 개발을 독학하며 프로젝트를 직접 완성하고 출시해 왔습니다.
 
 ### [2.2. Self Improvement](https://github.com/HongDaHyun/resume/blob/master/STORY.md#22-self-improvement)
 필요한 지식은 늘 스스로 찾아 익혔습니다. 문서와 코드를 뜯어보고 수많은 디버깅으로 쌓은 실력입니다.
@@ -73,7 +75,7 @@ GitHub, SNS, 전자문서, 트레일러 영상 등으로 개발 기록을 꾸준
 ### [2.6. Asset and Tools](https://github.com/HongDaHyun/resume/blob/master/STORY.md#26-assets-and-tools)
 약 50개 이상의 에셋을 활용할 수 있고, 프로젝트마다 반복되는 작업은 직접 코드를 만들어 재사용합니다.
 
-### [2.6. Recent Update](https://github.com/HongDaHyun/resume/blob/master/STORY.md#27-recent-update)
+### [2.7. Recent Update](https://github.com/HongDaHyun/resume/blob/master/STORY.md#27-recent-update)
 공군 전산병으로 복무하며 군 내 SMS(Service Management System)를 개발했고, 대회에서 3스타(참모총장상)를 수상했습니다. 이 기간 동안 개인 개발 커밋은 잠시 멈춰 있습니다.
 
 
