@@ -100,11 +100,11 @@ Category | Tool | Description
 
 ### [3.3. Planning](https://github.com/HongDaHyun/resume/blob/master/STORY.md#33-planning)
 
-**[애니제라블](https://github.com/HongDaHyun/resume/blob/master/STORY.md#331-애니제라블)**
+**[애니제라블 기획서](https://github.com/HongDaHyun/resume/blob/master/STORY.md#331-애니제라블-기획서)**
 : RudenSmith 팀 게임의 기획서로, 투자 유치를 위해 BM과 시장 분석까지 함께 진행했습니다.
 
-**[알티디(역기획서)](https://github.com/HongDaHyun/resume/blob/master/STORY.md#332-알티디(역기획서))**
+**[알티디 역기획서](https://github.com/HongDaHyun/resume/blob/master/STORY.md#332-알티디-역기획서)**
 : 직접 개발한 게임을 역으로 분석한 기획서로, 원활한 유지보수를 위해 작성했습니다.
 
-**[택틱스 어드벤처](https://github.com/HongDaHyun/resume/blob/master/STORY.md#333-택틱스-어드벤처)**
+**[택틱스 어드벤처 기획서](https://github.com/HongDaHyun/resume/blob/master/STORY.md#333-택틱스-어드벤처-기획서)**
 : 기획의 명확성과 일관성을 높이기 위해 게임 내 주요 용어와 개념을 정리한 문서입니다.
