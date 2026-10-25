@@ -32,11 +32,11 @@ ExCel        | 2 년        | CSV 기반 게임 데이터베이스 설계 및 �
 
 Team/Project | Entry Date | Leave Date | Role | Form
 --------|------------|------------|------|-------
-[RudenSmith](https://github.com/HongDaHyun/resume/blob/master/STORY.md#141-rudensmith) | 2022-09 | 2023-01 | 개발/서브 디자인 | 개발 중 해체
-[HIM](https://github.com/HongDaHyun/resume/blob/master/STORY.md#142-him) | 2023-02 | 2023-05 | 개발/디자인 | 개발 중 해체
-[CookieLabs](https://github.com/HongDaHyun/resume/blob/master/STORY.md#143-cookielabs) | 2023-11 | 2024-06 | 개발 | 스타트업 초기멤버 (무급, 사업자 등록 전)
-[졸업작품(TurtleRun)](https://github.com/HongDaHyun/resume/blob/master/STORY.md#144-turtlerun) | 2024-03 | 2024-06 | 개발(메인화면·미니게임, 코드 통합), 디자인 | 학업 프로젝트
-[졸업작품(Boulangerie)](https://github.com/HongDaHyun/resume/blob/master/STORY.md#145-boulangerie) | 2024-11 | 2025-03 | 개발 | 학업 프로젝트
+[RudenSmith](https://github.com/HongDaHyun/ProjectAI) | 2022-09 | 2023-01 | 개발/서브 디자인 | 개발 중 해체
+[HIM](https://github.com/HongDaHyun/HIM) | 2023-02 | 2023-05 | 개발/디자인 | 개발 중 해체
+[CookieLabs](https://github.com/cookie-labs) | 2023-11 | 2024-06 | 개발 | 스타트업 초기멤버 (무급, 사업자 등록 전)
+[졸업작품(TurtleRun)](https://github.com/gachon-gamemakers/TurtleRun) | 2024-03 | 2024-06 | 개발(메인화면·미니게임, 코드 통합), 디자인 | 학업 프로젝트
+[졸업작품(Boulangerie)](https://github.com/daaexkim/Boulangerie) | 2024-11 | 2025-03 | 개발 | 학업 프로젝트
 
 ### [1.5. Personal Projects](https://github.com/HongDaHyun/resume/blob/master/STORY.md#15-personal-projects)
 - 총 단독 프로젝트 경험: 약 29개월
@@ -82,14 +82,14 @@ GitHub, SNS, 전자문서, 트레일러 영상 등으로 개발 기록을 꾸준
 ### [3.1. Design](https://github.com/HongDaHyun/resume/blob/master/STORY.md#31-design)
 Category | Tool | Description
 ---------|------|-------------
-[Pixel Art](#311-pixel-art) | Aseprite | 캐릭터, 배경, 아이템 등 도트 그래픽 및 애니메이션 제작
-[Hand drawn Illustration](#312-hand-drawn-illustration) | MediBang Paint | 캐릭터 일러스트 및 애니메이션 손그림 제작
+[Pixel Art](https://github.com/HongDaHyun/resume/blob/master/STORY.md#311-pixel-art) | Aseprite | 캐릭터, 배경, 아이템 등 도트 그래픽 및 애니메이션 제작
+[Hand drawn Illustration](https://github.com/HongDaHyun/resume/blob/master/STORY.md#312-hand-drawn-illustration) | MediBang Paint | 캐릭터 일러스트 및 애니메이션 손그림 제작
 
 ### [3.2. Marketing](https://github.com/HongDaHyun/resume/blob/master/STORY.md#32-marketing)
-**[Instagram](https://github.com/HongDaHyun/resume/blob/master/STORY.md#321-instagram)**
+**[Instagram](https://www.instagram.com/rudensmith/)**
 : 인게임 테스트 플레이 릴스와, 개발 과정을 그린 인스타툰을 꾸준히 게시하며 메인 채널로 운영했습니다.
 
-**[YouTube](https://github.com/HongDaHyun/resume/blob/master/STORY.md#322-youtube)**
+**[YouTube](https://www.youtube.com/@RudenSmith)**
 : 게임 홍보용 숏폼 영상을 제작해 업로드했습니다.
 
 **[Trailer Video](https://github.com/HongDaHyun/resume/blob/master/STORY.md#323-trailer-video)**
