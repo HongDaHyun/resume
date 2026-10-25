@@ -456,7 +456,7 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
   </tr>
   <tr>
     <td align="center">
-      <a href="assets/aniserbles_trailer.mp4">
+      <a href="assets/aniserables_trailer.mp4">
         <img src="assets/aniserables.png" alt="Aniserables 트레일러" width="250">
       </a>
     </td>
