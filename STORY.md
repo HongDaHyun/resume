@@ -441,6 +441,7 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
 게임의 주요 특징과 매력을 효과적으로 전달하기 위해 트레일러 영상을 제작했습니다. 게임 소개와 주요 플레이 장면, 하이라이트 등을 중심으로 영상을 구성해 게임을 처음 접하는 유저도 핵심 재미 요소를 직관적으로 이해할 수 있도록 했습니다.
 
 영상 제작 과정에서는 기초적인 영상 편집 기술을 직접 학습하고 적용했습니다. 이를 통해 게임 개발뿐만 아니라 완성된 게임을 시각적인 콘텐츠로 가공하고, 잠재 유저에게 매력적으로 전달하는 방법도 익힐 수 있었습니다.
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -455,17 +456,17 @@ CSV 파일을 유니티에서 읽을 수 있게 하는 CSVReader를 직접 제�
   </tr>
   <tr>
     <td align="center">
-      ="assets/aniserbles_trailer.mp4">
+      <a href="assets/aniserbles_trailer.mp4">
         <img src="assets/aniserables.png" alt="Aniserables 트레일러" width="250">
       </a>
     </td>
     <td align="center">
-      ="assets/turtlerun_trailer.mp4">
+      <a href="assets/turtlerun_trailer.mp4">
         <img src="assets/turtlerun_trailer_2.gif" alt="Turtle Run 트레일러" width="250">
       </a>
     </td>
     <td align="center">
-      ="https://www.instagram.com/reel/DFBzbyihv-b/">
+      <a href="https://www.instagram.com/reel/DFBzbyihv-b/">
         <img src="assets/cookingvampire.png" alt="Cooking Vampire 트레일러" width="250">
       </a>
     </td>
