@@ -82,9 +82,9 @@ GitHub, SNS, 전자문서, 트레일러 영상 등으로 개발 기록을 꾸준
 ### [3.1. Design](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects)
 Category | Tool | Description
 ---------|------|-------------
-[Pixel Art](링크) | Aseprite | 캐릭터, 배경, 아이템 등 도트 그래픽 및 애니메이션 제작
-[Hand-drawn Illustration](링크) | MediBang Paint | 캐릭터 일러스트 및 애니메이션 손그림 제작
-[Effect Design](링크) | All | 스킬, 타격, 연출용 이펙트 스프라이트 제작
+[Pixel Art](#311-pixel-art) | Aseprite | 캐릭터, 배경, 아이템 등 도트 그래픽 및 애니메이션 제작
+[Hand-drawn Illustration](#312-hand-drawn-illustration) | MediBang Paint | 캐릭터 일러스트 및 애니메이션 손그림 제작
+[Effect Design](#313-effect-design) | All | 스킬, 타격, 연출용 이펙트 스프라이트 제작
 
 ### [3.2. Marketing](https://github.com/samchon/resume/blob/master/STORY.md#32-university-projects)
 **[Instagram](링크)**
