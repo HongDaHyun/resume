@@ -29,8 +29,9 @@
       - [3.2.3. Trailer Video](#323-trailer-video)
       - [3.2.4. DCInside](#324-dcinside)
     + [3.3. Planning](#33-planning)
-      - [3.3.1. Aniserables](#331-aniserables)
-      - [3.3.2. RTD](#332-rtd)
+      - [3.3.1. 애니제라블](#331-애니제라블)
+      - [3.3.2. 알티디(역기획서)](#332-알티디(역기획서))
+      - [3.3.3. 택틱스 어드벤처](#333-택틱스-어드벤처)
 
 
 
